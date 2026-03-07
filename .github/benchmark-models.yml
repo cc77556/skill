@@ -1,0 +1,15 @@
+# Default models for scheduled benchmark runs
+# Edit this file to add/remove models from the daily rotation
+#
+# All models are routed through OpenRouter for consistent API access and billing.
+# Format: openrouter/provider/model-name
+#
+# The workflow reads this file and runs benchmarks for each model in parallel.
+
+models:
+  - openrouter/anthropic/claude-sonnet-4
+  - openrouter/anthropic/claude-opus-4
+  - openrouter/openai/gpt-4o
+  - openrouter/openai/o3
+  - openrouter/google/gemini-2.5-pro
+  - openrouter/google/gemini-2.5-flash
