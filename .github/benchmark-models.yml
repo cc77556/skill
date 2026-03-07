@@ -1,0 +1,13 @@
+# Default models for scheduled benchmark runs
+# Edit this file to add/remove models from the daily rotation
+#
+# Format: provider/model-name
+# The workflow reads this file and runs benchmarks for each model in parallel
+
+models:
+  - anthropic/claude-sonnet-4
+  - anthropic/claude-opus-4
+  - openai/gpt-4o
+  - openai/o3
+  - google/gemini-2.5-pro
+  - google/gemini-2.5-flash
