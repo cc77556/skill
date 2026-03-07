@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       models:
-        description: 'Comma-separated list of models to benchmark (leave empty for default set)'
+        description: 'Comma-separated list of models (e.g., openrouter/anthropic/claude-sonnet-4)'
         required: false
         type: string
       suite:
@@ -117,26 +117,15 @@ jobs:
           # Use jq to safely interpolate the model name
           jq -n --arg model "$BENCHMARK_MODEL" '{defaultModel: $model, providers: {}}' > ~/.openclaw/openclaw.json
 
-      - name: Set up provider credentials
-        run: |
-          # OpenClaw reads these from environment
-          echo "Provider credentials configured from secrets"
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-
       - name: Run benchmark
         id: benchmark
         env:
           BENCHMARK_MODEL: ${{ matrix.model }}
           BENCHMARK_SUITE: ${{ inputs.suite || 'all' }}
           BENCHMARK_UPLOAD: ${{ inputs.upload }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          # All models route through OpenRouter - single API key
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          # Pre-shared token for identifying GitHub Actions runs on leaderboard
           PINCHBENCH_TOKEN: ${{ secrets.PINCHBENCH_TOKEN }}
         run: |
           UPLOAD_FLAG=""
