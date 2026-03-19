@@ -18,7 +18,6 @@ import logging
 import os
 import statistics
 import subprocess
-import time
 import sys
 import time
 from pathlib import Path
