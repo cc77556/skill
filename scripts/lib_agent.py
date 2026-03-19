@@ -21,6 +21,7 @@ logger = logging.getLogger(__name__)
 
 class ModelValidationError(Exception):
     """Raised when a model ID is invalid or inaccessible."""
+
     pass
 
 
@@ -31,44 +32,43 @@ def slugify_model(model_id: str) -> str:
     return model_id.replace("/", "-").replace(".", "-").lower()
 
 
-
 def validate_openrouter_model(model_id: str, timeout_seconds: float = 10.0) -> bool:
     """
     Validate that a model ID exists on OpenRouter.
-    
+
     Args:
         model_id: Model ID (with or without openrouter/ prefix)
         timeout_seconds: HTTP request timeout
-        
+
     Returns:
         True if model is valid and accessible
-        
+
     Raises:
         ModelValidationError: If model doesn't exist or validation fails
     """
     # Strip openrouter/ prefix if present
     bare_model_id = model_id
     if bare_model_id.startswith("openrouter/"):
-        bare_model_id = bare_model_id[len("openrouter/"):]
-    
+        bare_model_id = bare_model_id[len("openrouter/") :]
+
     # Skip validation for non-OpenRouter models
     if "/" not in bare_model_id:
         logger.info("Skipping model validation for non-OpenRouter model: %s", model_id)
         return True
-    
+
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
         logger.warning("OPENROUTER_API_KEY not set, skipping model validation")
         return True
-    
+
     logger.info("🔍 Validating model: %s", bare_model_id)
-    
+
     headers = {
         "Authorization": f"Bearer {api_key}",
         "HTTP-Referer": "https://pinchbench.com",
         "X-Title": "PinchBench",
     }
-    
+
     # First, try the specific model endpoint (fast path for valid models)
     encoded_model_id = bare_model_id.replace("/", "%2F")
     specific_endpoint = f"https://openrouter.ai/api/v1/models/{encoded_model_id}"
@@ -88,7 +88,7 @@ def validate_openrouter_model(model_id: str, timeout_seconds: float = 10.0) -> b
     except error.URLError as exc:
         logger.warning("Network error during model validation: %s", exc)
         return True
-    
+
     # Model not found - fetch full catalog for "did you mean" suggestions
     catalog_endpoint = "https://openrouter.ai/api/v1/models"
     req = request.Request(catalog_endpoint, headers=headers, method="GET")
@@ -104,17 +104,32 @@ def validate_openrouter_model(model_id: str, timeout_seconds: float = 10.0) -> b
     except json.JSONDecodeError as exc:
         logger.warning("Failed to parse OpenRouter response: %s", exc)
         raise ModelValidationError(f"Model '{bare_model_id}' not found on OpenRouter.")
-    
+
     models = data.get("data", [])
-    model_ids = {m.get("id") for m in models if isinstance(m, dict) and m.get("id")}
-    
+    model_ids = {
+        mid
+        for m in models
+        if isinstance(m, dict)
+        for mid in [m.get("id")]
+        if isinstance(mid, str) and mid
+    }
+
+    # Some OpenRouter model detail lookups intermittently return 404 for valid
+    # IDs. Treat an exact catalog hit as authoritative to avoid false negatives.
+    if bare_model_id in model_ids:
+        logger.info("✅ Model validated via catalog fallback: %s", bare_model_id)
+        return True
+
     # Check for close matches (typos)
     close_matches = []
     bare_lower = bare_model_id.lower()
     for mid in model_ids:
-        if bare_lower in mid.lower() or mid.lower() in bare_lower:
+        mid_lower = mid.lower()
+        if mid_lower == bare_lower:
+            continue
+        if bare_lower in mid_lower or mid_lower in bare_lower:
             close_matches.append(mid)
-    
+
     error_msg = f"Model '{bare_model_id}' not found on OpenRouter."
     if close_matches:
         close_matches_str = ", ".join(sorted(close_matches)[:5])
@@ -125,8 +140,10 @@ def validate_openrouter_model(model_id: str, timeout_seconds: float = 10.0) -> b
         if provider:
             provider_models = [m for m in model_ids if m.startswith(f"{provider}/")]
             if provider_models:
-                error_msg += f" Available {provider} models: {', '.join(sorted(provider_models)[:5])}"
-    
+                error_msg += (
+                    f" Available {provider} models: {', '.join(sorted(provider_models)[:5])}"
+                )
+
     raise ModelValidationError(error_msg)
 
 
@@ -336,6 +353,7 @@ def prepare_task_workspace(skill_dir: Path, run_id: str, task: Task, agent_id: s
                 dest_skill_dir = dest_skills_dir / skill_dir_src.name
                 # Copy skill directory
                 import shutil
+
                 if dest_skill_dir.exists():
                     shutil.rmtree(dest_skill_dir)
                 shutil.copytree(skill_dir_src, dest_skill_dir)
@@ -554,7 +572,7 @@ def execute_openclaw_task(
     timed_out = False
 
     # Check if this is a multi-session task
-    sessions = task.frontmatter.get('sessions', [])
+    sessions = task.frontmatter.get("sessions", [])
     if sessions:
         # Multi-session task: send each prompt in sequence
         logger.info("📋 Multi-session task with %d sessions", len(sessions))
@@ -563,7 +581,7 @@ def execute_openclaw_task(
             if isinstance(session_entry, str):
                 session_prompt = session_entry
             elif isinstance(session_entry, dict):
-                session_prompt = session_entry.get('prompt') or session_entry.get('message', '')
+                session_prompt = session_entry.get("prompt") or session_entry.get("message", "")
             else:
                 logger.warning("⚠️ Skipping invalid session entry: %s", session_entry)
                 continue
