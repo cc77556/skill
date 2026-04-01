@@ -197,11 +197,24 @@ def _get_agent_workspace(agent_id: str) -> Path | None:
         return None
 
 
-def ensure_agent_exists(agent_id: str, model_id: str, workspace_dir: Path) -> bool:
+def ensure_agent_exists(
+    agent_id: str,
+    model_id: str,
+    workspace_dir: Path,
+    *,
+    base_url: str | None = None,
+    api_key: str | None = None,
+) -> bool:
     """Ensure the OpenClaw agent exists with the correct workspace.
 
     If the agent already exists but points to a different workspace, it is
     deleted and recreated so that the new workspace takes effect.
+
+    When *base_url* is provided, a custom OpenAI-compatible provider is
+    configured in the agent's ``models.json`` instead of relying on
+    OpenRouter.  *api_key* defaults to ``${OPENAI_API_KEY}`` (resolved by
+    OpenClaw at runtime) if not given.
+
     Returns True if the agent was (re)created.
     """
     workspace_dir.mkdir(parents=True, exist_ok=True)
@@ -286,25 +299,62 @@ def ensure_agent_exists(agent_id: str, model_id: str, workspace_dir: Path) -> bo
             "Agent creation returned %s: %s", create_result.returncode, create_result.stderr
         )
 
-    # Copy main agent's models.json to bench agent so custom providers (e.g. lenovo)
-    # are available. OpenClaw only copies a subset of providers when creating a new agent.
+    # Configure models.json for the bench agent
+    bench_agent_dir = _get_agent_store_dir(agent_id) / "agent"
+    bench_agent_dir.mkdir(parents=True, exist_ok=True)
+    bench_models = bench_agent_dir / "models.json"
     main_models = Path.home() / ".openclaw" / "agents" / "main" / "agent" / "models.json"
-    if main_models.exists():
-        bench_agent_dir = _get_agent_store_dir(agent_id) / "agent"
-        bench_agent_dir.mkdir(parents=True, exist_ok=True)
-        bench_models = bench_agent_dir / "models.json"
+
+    if base_url:
+        # Custom OpenAI-compatible endpoint — build a provider entry
+        data: dict[str, Any] = {}
+        if main_models.exists():
+            try:
+                data = json.loads(main_models.read_text("utf-8-sig"))
+            except (json.JSONDecodeError, OSError):
+                data = {}
+
+        key_ref = api_key if api_key else "${OPENAI_API_KEY}"
+        providers = data.setdefault("models", {}).setdefault("providers", {})
+        data["models"]["mode"] = "merge"
+        providers["custom"] = {
+            "baseUrl": base_url,
+            "apiKey": key_ref,
+            "api": "openai-completions",
+            "models": [
+                {
+                    "id": model_id,
+                    "name": model_id,
+                    "reasoning": False,
+                    "input": ["text"],
+                    "contextWindow": 200000,
+                    "maxTokens": 8192,
+                }
+            ],
+        }
+        data["defaultProvider"] = "custom"
+        data["defaultModel"] = model_id
+        bench_models.write_text(json.dumps(data, indent=2, ensure_ascii=False), "utf-8")
+        logger.info(
+            "Configured custom provider (%s) with model %s for agent %s",
+            base_url,
+            model_id,
+            agent_id,
+        )
+    elif main_models.exists():
+        # Standard OpenRouter flow — copy main's models.json and set defaults
         import shutil as _shutil
         _shutil.copy2(main_models, bench_models)
-        # Set defaultProvider/defaultModel so OpenClaw uses the requested model
         if "/" in model_id:
             provider_name, model_name = model_id.split("/", 1)
             try:
-                import json as _json
                 raw = bench_models.read_text("utf-8-sig")
-                data = _json.loads(raw)
+                data = json.loads(raw)
                 data["defaultProvider"] = provider_name
                 data["defaultModel"] = model_name
-                bench_models.write_text(_json.dumps(data, indent=2, ensure_ascii=False), "utf-8")
+                bench_models.write_text(
+                    json.dumps(data, indent=2, ensure_ascii=False), "utf-8"
+                )
                 logger.info(
                     "Set bench agent default model to %s / %s", provider_name, model_name
                 )
@@ -312,16 +362,16 @@ def ensure_agent_exists(agent_id: str, model_id: str, workspace_dir: Path) -> bo
                 logger.warning("Failed to set default model in bench models.json: %s", exc)
         logger.info("Copied main agent models.json to bench agent %s", agent_id)
 
-        # Delete sessions.json so OpenClaw picks up the new defaultProvider/defaultModel
-        # instead of reusing a cached session entry that still points to an old model.
-        bench_sessions_dir = _get_agent_store_dir(agent_id) / "sessions"
-        sessions_store = bench_sessions_dir / "sessions.json"
-        if sessions_store.exists():
-            try:
-                sessions_store.unlink()
-                logger.info("Deleted stale sessions.json for bench agent %s", agent_id)
-            except OSError as exc:
-                logger.warning("Failed to delete sessions.json: %s", exc)
+    # Delete sessions.json so OpenClaw picks up the new defaultProvider/defaultModel
+    # instead of reusing a cached session entry that still points to an old model.
+    bench_sessions_dir = _get_agent_store_dir(agent_id) / "sessions"
+    sessions_store = bench_sessions_dir / "sessions.json"
+    if sessions_store.exists():
+        try:
+            sessions_store.unlink()
+            logger.info("Deleted stale sessions.json for bench agent %s", agent_id)
+        except OSError as exc:
+            logger.warning("Failed to delete sessions.json: %s", exc)
 
     return True
 

@@ -220,6 +220,16 @@ def _parse_args() -> argparse.Namespace:
         help="Judge model identifier (default: openrouter/anthropic/claude-opus-4.5)",
     )
     parser.add_argument(
+        "--base-url",
+        default=None,
+        help="Custom OpenAI-compatible API base URL (bypasses OpenRouter validation)",
+    )
+    parser.add_argument(
+        "--api-key",
+        default=None,
+        help="API key for custom endpoint (default: $OPENAI_API_KEY env var)",
+    )
+    parser.add_argument(
         "--verbose",
         "-v",
         action="store_true",
@@ -562,13 +572,19 @@ def main():
     agent_workspace = Path(f"/tmp/pinchbench/{run_id}/agent_workspace")
 
     # Validate model exists before wasting time on tasks
-    try:
-        validate_openrouter_model(args.model)
-    except ModelValidationError as exc:
-        logger.error("❌ %s", exc)
-        sys.exit(1)
+    if args.base_url:
+        logger.info("Using custom endpoint: %s (skipping OpenRouter validation)", args.base_url)
+    else:
+        try:
+            validate_openrouter_model(args.model)
+        except ModelValidationError as exc:
+            logger.error("❌ %s", exc)
+            sys.exit(1)
 
-    ensure_agent_exists(agent_id, args.model, agent_workspace)
+    ensure_agent_exists(
+        agent_id, args.model, agent_workspace,
+        base_url=args.base_url, api_key=args.api_key,
+    )
     cleanup_agent_sessions(agent_id)
 
     task_ids = _select_task_ids(runner.tasks, args.suite)
