@@ -10,7 +10,7 @@ SCRIPTS_DIR = ROOT / "scripts"
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
-from lib_grading import _combine_grades, _normalize_judge_response, GradeResult
+from lib_grading import _combine_grades, _normalize_judge_response, GradeResult  # noqa: E402
 
 
 class JudgeNormalizationTests(unittest.TestCase):
