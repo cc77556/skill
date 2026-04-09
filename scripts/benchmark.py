@@ -267,7 +267,7 @@ def _parse_args() -> argparse.Namespace:
         "--trend-threshold",
         type=float,
         default=-0.5,
-        help="Slope (%/run) below which regression is flagged (default: -0.5)",
+        help="Slope (%%/run) below which regression is flagged (default: -0.5)",
     )
     args = parser.parse_args()
 
