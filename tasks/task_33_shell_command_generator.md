@@ -1,5 +1,5 @@
 ---
-id: task_28_shell_command_generator
+id: task_33_shell_command_generator
 name: Shell Command Generator
 category: developer
 grading_type: automated
@@ -69,7 +69,7 @@ def grade(transcript: list, workspace_path: str) -> dict:
     scores["non_empty_command"] = 1.0
 
     lowered = command.lower()
-    commentary_tokens = ["here is", "this command", "explanation", "```", "command:"]
+    commentary_tokens = ["here is", "this command", "explanation", "\x60\x60\x60", "command:"]
     if not any(token in lowered for token in commentary_tokens):
         scores["shell_only_output"] = 1.0
 
