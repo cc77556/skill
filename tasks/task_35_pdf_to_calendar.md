@@ -5,7 +5,7 @@ category: calendar
 grading_type: automated
 timeout_seconds: 180
 workspace_files:
-  - source: mlk-elementary-2026-2027.pdf
+  - source: school-calendar.pdf
     dest: school-calendar.pdf
 ---
 
