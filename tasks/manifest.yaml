@@ -41,3 +41,7 @@ tasks:
   - task_shell_command_generator
   - task_git_rescue_recovery
   - task_contract_analysis
+  - task_csv_stock_trend
+  - task_csv_stock_volatility
+  - task_csv_stock_best_worst
+  - task_csv_finance_report
