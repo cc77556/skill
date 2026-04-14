@@ -1,5 +1,5 @@
 ---
-id: task_28_gws_task_management
+id: task_gws_task_management
 name: GWS Task Management
 category: gws
 grading_type: hybrid

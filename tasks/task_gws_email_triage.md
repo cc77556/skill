@@ -1,5 +1,5 @@
 ---
-id: task_26_gws_email_triage
+id: task_gws_email_triage
 name: GWS Email Triage
 category: gws
 grading_type: hybrid

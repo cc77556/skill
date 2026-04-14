@@ -1,5 +1,5 @@
 ---
-id: task_29_gh_issue_triage
+id: task_gh_issue_triage
 name: GitHub Issue Triage
 category: github
 grading_type: hybrid

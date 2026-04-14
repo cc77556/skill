@@ -1,5 +1,5 @@
 ---
-id: task_27_gws_cross_service
+id: task_gws_cross_service
 name: GWS Cross-Service Workflow
 category: gws
 grading_type: hybrid
