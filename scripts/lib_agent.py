@@ -526,8 +526,15 @@ def _resolve_session_id_from_store(agent_id: str) -> str | None:
     return None
 
 
-def _find_transcript_path_from_sessions_store(agent_id: str) -> Optional[Path]:
-    """Best-effort transcript path resolution from sessions.json payload values."""
+def _find_transcript_path_from_sessions_store(
+    agent_id: str, started_at: float = 0.0, tolerance_seconds: float = 5.0
+) -> Optional[Path]:
+    """Best-effort transcript path resolution from sessions.json payload values.
+
+    Only returns paths whose mtime is >= started_at - tolerance_seconds so that
+    a stale session written by a previous task's async tail (after its transcript
+    was already archived) is never mistaken for the current task's session.
+    """
     agent_dir = _get_agent_store_dir(agent_id)
     sessions_store = agent_dir / "sessions" / "sessions.json"
     if not sessions_store.exists():
@@ -551,13 +558,14 @@ def _find_transcript_path_from_sessions_store(agent_id: str) -> Optional[Path]:
 
     suffixes = (".jsonl", ".ndjson")
     session_root = agent_dir / "sessions"
+    min_mtime = started_at - tolerance_seconds
     for value in _iter_strings(payload):
         if not value.endswith(suffixes):
             continue
         candidate = Path(value)
         if not candidate.is_absolute():
             candidate = session_root / value
-        if candidate.exists():
+        if candidate.exists() and candidate.stat().st_mtime >= min_mtime:
             return candidate
     return None
 
@@ -613,7 +621,7 @@ def _load_transcript(
                 break
 
         # 1b. Parse transcript-like paths from sessions.json values
-        candidate_from_store = _find_transcript_path_from_sessions_store(agent_id)
+        candidate_from_store = _find_transcript_path_from_sessions_store(agent_id, started_at)
         if candidate_from_store is not None:
             transcript_path = candidate_from_store
             logger.info(
