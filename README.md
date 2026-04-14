@@ -33,7 +33,7 @@ cd skill
 ./scripts/run.sh --model openrouter/anthropic/claude-sonnet-4
 
 # Or run specific tasks
-./scripts/run.sh --model openrouter/openai/gpt-4o --suite task_01_calendar,task_02_stock
+./scripts/run.sh --model openrouter/openai/gpt-4o --suite task_calendar,task_stock
 ```
 
 > **Note:** Model IDs must include their provider prefix (e.g. `openrouter/`, `anthropic/`). [OpenRouter](https://openrouter.ai) is the default provider used for routing.
@@ -137,7 +137,7 @@ We welcome new tasks! Check out [`tasks/TASK_TEMPLATE.md`](tasks/TASK_TEMPLATE.m
 
 ### Transcript Archive
 
-Session transcripts are automatically saved to `results/{run_id}_transcripts/` alongside the results JSON. Each task's full agent conversation is preserved as a JSONL file (e.g. `task_01_calendar.jsonl`) for post-run analysis.
+Session transcripts are automatically saved to `results/{run_id}_transcripts/` alongside the results JSON. Each task's full agent conversation is preserved as a JSONL file (e.g. `task_calendar.jsonl`) for post-run analysis.
 
 ## Links
 

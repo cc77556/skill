@@ -681,7 +681,7 @@ def main():
     task_ids = _select_task_ids(runner.tasks, args.suite)
     results = []
     grades_by_task_id = {}
-    sanity_task_id = "task_00_sanity"
+    sanity_task_id = "task_sanity"
 
     tasks_to_run = runner.tasks
     if task_ids is not None:
