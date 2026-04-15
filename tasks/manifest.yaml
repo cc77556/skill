@@ -67,3 +67,9 @@ tasks:
   - task_meeting_tech_competitors
   - task_meeting_tech_messaging
   - task_meeting_tech_product_features
+  - task_meeting_executive_summary
+  - task_meeting_sentiment_analysis
+  - task_meeting_follow_up_email
+  - task_meeting_blog_post
+  - task_meeting_tldr
+  - task_meeting_searchable_index
