@@ -62,3 +62,8 @@ tasks:
   - task_csv_gdp_ranking
   - task_csv_gdp_per_capita
   - task_csv_gdp_regions
+  - task_meeting_tech_action_items
+  - task_meeting_tech_decisions
+  - task_meeting_tech_competitors
+  - task_meeting_tech_messaging
+  - task_meeting_tech_product_features
