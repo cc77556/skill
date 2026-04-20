@@ -1,0 +1,6 @@
+[
+  {"title": "Q1 Review Meeting", "start": "2026-03-25T10:00:00", "end": "2026-03-25T11:00:00", "location": "Conference Room A", "attendees": ["boss@company.com", "team@company.com"]},
+  {"title": "Lunch with Client", "start": "2026-03-25T12:30:00", "end": "2026-03-25T13:30:00", "location": "Restaurant", "attendees": ["client@bigcorp.com"]},
+  {"title": "1-on-1 with Manager", "start": "2026-03-25T15:00:00", "end": "2026-03-25T15:30:00", "location": "Zoom", "attendees": ["boss@company.com"]},
+  {"title": "Gym", "start": "2026-03-25T18:00:00", "end": "2026-03-25T19:00:00", "location": "Fitness Center", "attendees": []}
+]

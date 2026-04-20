@@ -82,3 +82,4 @@ tasks:
   - task_csv_stations_by_elevation
   - task_csv_stations_coverage
   - task_csv_stations_filter
+  - task_100_calendar

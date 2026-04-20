@@ -1,0 +1,7 @@
+[
+  {"id": "e001", "from": "boss@company.com", "subject": "Q1 Review Meeting", "body": "Please prepare the Q1 report for tomorrow's meeting at 10am.", "date": "2026-03-25T08:00:00", "flagged": true},
+  {"id": "e002", "from": "newsletter@techdigest.com", "subject": "Weekly Tech Digest", "body": "Top stories in AI this week...", "date": "2026-03-25T07:30:00", "flagged": false},
+  {"id": "e003", "from": "hr@company.com", "subject": "Benefits Enrollment Reminder", "body": "Open enrollment ends this Friday.", "date": "2026-03-24T16:00:00", "flagged": false},
+  {"id": "e004", "from": "client@bigcorp.com", "subject": "Urgent: Contract Review", "body": "Need your sign-off on the updated terms by EOD.", "date": "2026-03-25T09:15:00", "flagged": true},
+  {"id": "e005", "from": "team@company.com", "subject": "Sprint Retro Notes", "body": "Attached are the retro notes from last sprint.", "date": "2026-03-24T14:00:00", "flagged": false}
+]

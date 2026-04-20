@@ -1,0 +1,4499 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:jaffkuo375@gmail.com
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+X-LIC-LOCATION:Asia/Taipei
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:GMT+8
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20131120T010000Z
+DTEND:20131122T090000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=cherry_chang@asus.com:mailto:cherry_chang@asus.com
+UID:040000008200E00074C5B7101A82E00800000000C0D977BCC5E6CE01000000000000000
+ 010000000DD693DB86ABDA446B7D60906EA7381D4
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ ff Kuo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20131121T062713Z
+DESCRIPTION:\n\n由我的 ASUS 傳送\n\n-------- 原始郵件 --------\n寄件者："Cherry Chang(張文
+ 慧)" <Cherry_Chang@asus.com>\n傳送日期：Thu\, 21 Nov 2013 14:28:26 +0800\n收件者："Ke
+ n Hsu(許致浩)" <Ken_Hsu@asus.com>\,"Allen Yu(俞皓_華碩蘇州)" <Allen_Yu@asus.com>\,"S
+ tar Fan(樊業新_華碩蘇州)" <Star_Fan@asus.com>\,"Anna Feng(封婷_華碩蘇州)" <Anna_Feng@asu
+ s.com>\,"Henry1 Chen(陳鼎豐)" <Henry1_Chen@asus.com>\,"Lisa Yan(嚴海嬌_華碩蘇州)" <Li
+ sa_Yan@asus.com>\,"Jimmy Cheng(鄭欽鴻)" <Jimmy_Cheng@asus.com>\,"Queenie Zhang
+ (張苗_華碩蘇州)" <Queenie_Zhang@asus.com>\,"Titan Hsieh(謝漢風)" <Titan_Hsieh@asus.c
+ om>\,"Daisy Zhang(張偉偉_華碩蘇州)" <Daisy_Zhang@asus.com>\,"Maxine Xue(薛瑞明_華碩蘇州)"
+  <Maxine_Xue@asus.com>\,"Rainbow Hu(胡曉英_華碩蘇州)" <Rainbow_Hu@asus.com>\,"Shad
+ ow Wang(王靜_華碩蘇州)" <Shadow_Wang@asus.com>\,"'Zoe Zhao(趙倩_華碩蘇州)'" <Zoe_Zhao@a
+ sus.com>\,"Hellen Zhao(趙含_華碩蘇州)" <Hellen_Zhao@asus.com>\,"Winnie3 Lin(林家蓁)"
+  <Winnie3_Lin@asus.com>\,"Zachariah Liu(劉志剛)" <Zachariah_Liu@asus.com>\,"Ke
+ vin3 Liu(劉凱銘)" <Kevin3_Liu@asus.com>\,"Tigers Chan(詹正維)" <Tigers_Chan@asus.
+ com>\,"Nico1 Chen(陳子媖)" <Nico1_Chen@asus.com>\,"Chunpin Fang(方俊斌)" <Chunpin
+ _Fang@asus.com>\,"Rogi Lee(李佩珊)" <Rogi_Lee@asus.com>\,"Efren Huang(黃文鋐)" <E
+ fren_Huang@asus.com>\,"Astrid Chang(張貽婷)" <Astrid_Chang@asus.com>\,"Lisa To
+ h(杜潔)" <Lisa_Toh@asus.com>\,"!60-ASUS-Sys-Mobile_Comm_BU-QT-SQ_Dept-Verific
+  Sec.3(軟體驗證三課)" <!60-ASUS-Sys-Mobile_Comm_BU-QT-SQ_Dept-VerificSec.3@intra.
+ asus.com>\,"Joshua Chen(陳振聲)" <Joshua_Chen@asus.com>\,"Eric2 Huang(黃宥竣)" <E
+ ric2_Huang@asus.com>\,"Jenson1 Lee(李奇珀)" <Jenson1_Lee@asus.com>\,"Vincent1 
+ Fan(范文耀)" <Vincent1_Fan@asus.com>\,"Jaff Kuo(郭福星)" <Jaff_Kuo@asus.com>\,"We
+ nchieh Chien(簡彣倢)" <Wenchieh_Chien@asus.com>\,"Fay Si(司馬翔鳳_華碩蘇州)" <Fay_Si@a
+ sus.com>\,"Jaco Huang(黃協鵬)" <Jaco_Huang@asus.com>\,"Eva1 Huang(黃韻芳)" <Eva1_
+ Huang@asus.com>\,"Tony Bao(包陳傑_華碩蘇州)" <Tony_Bao@asus.com>\,"Sky Liang(梁大偉_華
+ 碩蘇州)" <Sky_Liang@asus.com>\,"Houston Huang(黃孟儒)" <Houston_Huang@asus.com>\,
+ "Eva Liao(廖千瑩)" <Eva_Liao@asus.com>\n主旨:[A11_4.3] ER-REGRE Test-8 _10.14.1.
+ 24 TW TEST: 2013/11/20 (三) 09:00 AM ~2013/11/22 (五) 17:00 PM\n\nDear all\,\
+ n\n測試過程中，若有發現重大問題(例如，自動重開機、當機、讀不到SD card、BT/Wi-Fi功能異常等)，請隨即提出討論：\n\n\n  *  
+  Test Run\n\n[cid:A17EC3822C704C196502E5741998170A31A68BC5@intra.asus.com]\
+ n\n\n  *   Test Schedule\n\nTest Time：      2013/11/20(三) 09:00 ~ 2013/11/2
+ 2 (五) 17:00\nROM version：    A11-10.14.1.24-20131120_M2.14.13\nWi-Fi FW    
+     120212\nBT FW   120212\nPadFone Station PFECB-PAD-0306\nPadFone Station
+  觸控螢幕版本  1040\nModem FW        M2.14.13\nSKU：    TW\nSample： A11 ER+ P71L E
+ R\nTPE ROM Path：   \\\\rd9filesvr\\Prj\\A11\\Images\\10.14.1.24_M2.14.13_20
+ 131120<file:///\\\\rd9filesvr\\Prj\\A11\\Images\\10.14.1.24_M2.14.13_201311
+ 20>\n\n\nSZ ROM Path：    \\\\rd9filesvr\\Prj\\A11\\Images\\10.14.1.24_M2.14
+ .13_20131120<file:///\\\\rd9filesvr\\Prj\\A11\\Images\\10.14.1.24_M2.14.13_
+ 20131120>\n\n\n\nA11 AP List: \\\\TP-PMDQTFS-v01\\Project\\A11\\System Spec
+ \\Member List\\AP\nA11 Spec: \\\\TP-PMDQTFS-v01\\Project\\A11\\System Spec\
+ \Spec 文件\\AMAX<\\\\TP-PMDQTFS-v01\\Project\\A11\\System%20Spec\\Spec%20文件\\
+ AMAX>\n         \\\\TP-PMDQTFS-v01\\Project\\A11\\System Spec\\Spec 文件\\Mar
+ ket spec\n\n\n\n\n  *   測試安排說明\n\nTest Item       建議的挑選原則 R & R\nFunctional
+  Test\n(含codec、Audio Path、Accessory、unlock tool、device tracker等)\n        策
+ 略目標以及目前達成率：\n\n  1.  確保A11 專案品質(參考 ex. A86與ME175KG-ER階段)\n\n\n策略目的:\n依據A86與
+ ME175KG的ER階段標準 \,訂定A11 目的 (請參考A86與ME175KG數據):\n1-1. 第二次Full Test階段:\nA86各Te
+ st Run Pass Rate 平均為83.94% 、Total Bug的Close Rate為49.16%、Critical Bug的Close 
+ Rate為61.23 %\nME175KG各Test Run Pass Rate 平均為73.05% 、Total Bug的Close Rate為55
+ .78%、Critical Bug的Close Rate為69.37 %\n\n1-2. ER階段 (DVT Close):\nA86各Test Ru
+ n Pass Rate 平均為82.08% 、Total Bug的Close Rate為72.63%、Critical Bug的Close Rate為
+ 93.82%\n\n手段:\n1-1-1. A11 測試Test Run:\n本專案ER階段\, 預計進測1次Full Test\, 5次REGRE-
+ Test 以確保ER整體Function Ready率達100%\,目前達成率100%\n\n策略目標以及目前達成率：\n2. 確認2st Full 
+ 項目於3nd Full 前缺漏部分至少補測完畢\n\n策略目的:\n透過出貨專案當作Benchmark(A86/ME175KG)，確保A11 R-Ta
+ ble的測試涵蓋率是否足夠\n\n手段:\n2-1. 每周Review A11 R-Table 新增/修改測項 每周執行\n2-2. 在進測3nd F
+ ull Test前\,需請Domain Owner分析 Common R-Table & A11 2nd Full test 分析\,避免漏測目前達成
+ 率100%\n\n策略目標以及目前達成率：\n3. 確保人力使用率符合專案預期\n\n策略目的:\n透過出貨專案當作Benchmark(A68/A86
+ )，評估A11專案的測項效率是否合乎預期\n\n手段:\n3-1: Functional 部分: 初步計算結果: 9525 TCs (請參考附件人力預
+ 估) 外包測試加入\,不做計算\n->不做計算\,因為每天要給marigold 200條\,已超過原本預估數量\n\n策略目標以及目前達成率：\n4.
+  第二次Full Test完成後(ER Stage) 需進行AP Version比較給Domain Owner\n\n策略目的:\n確保AP進版的測試
+ 涵蓋率\n\n手段:\n4-1. 於每次各Millstone階段\,TL需比對AP Version給Domain Owner\, 確認是否Test R
+ un挑選測項足夠\,並確認AP大進版時是否有新增測項\n4-2. 比較A11與ME175KG 4-2. AP版本進行比對\,針對版本差異較大的部分\,
+ 請Domain Owner確認是否有New Feather新增目前達成率100%\n\n策略目標以及目前達成率：\n5. 確認AMAX 0.85測項涵
+ 蓋度\n\n策略目的:\n依據SW PM 提供的AMAX 0.85 Spec\,確保在11/7 前測項完成\,並導入至REGRE 5-Test\n\n
+ 手段:\n5-1. 提供AMAX 0.85有進版的Topic\, 請Domain Owner協助確認並維護測項，完成後新增至R-Table (GL R
+ eview) 目前達成率100%\n5-2. 安排REGRE-5 測試AMAX 0.85測項目前達成率100%\n\n策略目標以及目前達成率：\n7.
+  確保DVT Close之前，Critical Bug都能找出來(經Bug Review後確實是Critical的Bug)，幫助RD在DVT Clos
+ e之前解掉\n\n策略目的:\n依據ME175KG Critical bug 的測試結果\,確保A11 AD_HOC Bugs 的測試涵蓋度是否足夠\
+ n\n手段:\n7-1. SV3 導入AD_HOC 改善作法 (透過Dashboard 沒有測項的Bug 清單選擇編輯模式來進行啟動編輯資料\, 當已
+ 經處理過的時候則標示V 選擇處理編輯標示後的BUG)\,主要項目如下: 每周執行\n\n  1.  增加由Dashboard 讓TPE OWNER 透
+ 過Dashboard 去更改TC Applied 以降低TL 協助更改所花費時間\n  2.  增加Note 欄位\, 同仁可以於標示已處理的Bug 
+ 旁加註 Note \, 後續讓Topic Owner了解\, 可能要怎麼修改測項或是不需要增加測項 (確認這些Ad_Hoc bugs是否真的無測項對應
+ )\n  3.  增加Category 的分類\, 目前Domain 分派幾乎已Category 分類\, 以協助同仁Filter 自己的Domain
+ \n  4.  增加TCs 一頁顯示的數量(由10 筆增加至50 筆) 提升批次處理速度\n\n7-2. 安排A11 測試ME175KG AD_Hoc
+  Critical bug 測試 目前達成率100%\n7-3.  AD_Hoc後續分析動作歸屬 (當每周分析完成後\, 依據Dashboard分類和
+ 80/20原則去排優先次序澄清)每周執行\n7-4. 每周持續針對客訴問題去澄清，檢討有無測項或測試遺漏 (特別是澄清to be defined is
+ sues) 每周執行\n\n策略目標以及目前達成率：\n8. 確認Common Pool (B1/B2/B3/Plus) V.S A11 Projec
+ t R-Table是否有該挑未挑入\n\n策略目的:\n依據目前定義的Common Pool 確認屬於A11 Project R-Table B1/B
+ 2/B3/Plus 測項\n\n手段:\n8-1. 請同仁如果確認A11 R-Table是否需要挑入\, 若仍無需挑入.則請幫忙說明理由 (另外請Do
+ main Owner注意標示Disable= Y 的測項\, 是否要Enable\, 還是他其實已經有對應到新的測項\, 如果有對應到新TC 請幫忙寫
+ Disable 部分\, 需告知要更換哪一條) 目前達成率100%\n檔案路徑: \\\\TP-PMDQTFS-v01\\QT\\SQ\\SV3\\O
+ thers\\B1B2B3Common%20Pool%20V.S%20Project\n\n策略目標以及目前達成率：\n11. 確認Project R
+ -table 測試涵蓋度(針對N/A Test Case)\n\n策略目的:\n確保若AMAX 有新增的AP\,不會因為先前R-Table 測試紀錄N
+ /A\,而導致之後沒有測到\n\n手段:\n11-1. 確認N/A的項目若是真的spec 不support\,則在A11 R-Table 內刪除\,但
+ 其餘N/A的測項則保留(可於第二次Full test 後\,依據TMS 新增的功能比對其他專案的N/A項目\,以確保沒有遺漏的Test Case) 目
+ 前達成率100% (已於11/20 完成)\n\n\n重點提示：\n\n  1.  建議根據自己Dashboard的domain 進行分析後挑測\n 
+  2.  本次進行REGRE測試\,需挑選與Driver相關的部分\n\n(請參考附件)\n\n  1.  Gating Bug Fix 相關Doma
+ in 需加挑\n\n(請參考: http://tp-dpdtt-01/tmtrack/tmtrack.dll?ReportPage&Template=
+ reports%2Flistframe&ReportId=24615)\n\n  1.  參考Release note (請參考附件)\n  2.  
+ 有進版的AP 需加挑\n\n(請參考附件)\n\n\n  *   TPE SV3 協助挑測與測試\n  *   請Domain Owner協助挑測AP
+ 進版相關Domain\n  *   SZ SIT3 協助測試\n\n\nStress Test     重點提示：\n\n  1.  Suspend/
+ resume 壓力測試\n  2.  happiness 2.0壓力測試\n  3.  自動化壓力測試\n  4.  DDS測試\n  5.  Top
+ ic Focus Monkey測試\n\n\n\n\n  *   請Jocelyn協助執行suspend/resume & DDS 壓力測試\n  *
+    請各Domain Owner協助執行happiness 2.0壓力& 自動化壓力測試\n  *   請各Domain Owner協助挑測與執行(
+  Hellen 協助分派執行)\n\n\nGoogle 認證       策略目標以及目前達成率：\nMP 預計11 /B 拉1個月的前兩周安排CTS
+  預跑\,確認CTS 產生的風險避免要求一次進測而產生出來的加班問題\n\n手段:\n確認CTS 產生的風險避免要求一次進測而產生出來的加班問題\n1
+ . 10/B 當周執行GMS Check List (花費時間多) 目前達成率100%\n2. 10/B 當周執行5 份Report Test (降低
+ 同時進測人力問題) 目前達成率100%\n\n重點提示：\n\n  1.  CTS (TW):3台\n\n\n\n\n  *   請Henry協助執行
+ \n\n\n\nStability Test  策略目標以及目前達成率：\n9.確保產品的穩定度品質\n\n策略目的\n確認SSI 測試指標能夠達到至
+ 少15 天使用無當機& AP CRASH 問題(參考A80與A86 MR結果)\n\n手段:\n9-1. 於2nd Full 前先跑3rd Party
+  APP Focus AP Monkey 達成比率100% (highlight Risk app 給AMAX Q) 目前達成率100%\n9-2. 
+ 每周先行跑Monkey Test目前達成率100%\n9-3. 10/11 開始進行SSI Try Run目前達成率100%\n\n策略目標以及目前達
+ 成率：\n完成Monkey 穩定度測試與SSI 穩定度測試(需由工讀生Daily 於最後一天確認機台功能性)\n重點提示：\n\n  1.  Monk
+ ey (TW): 10台 (Phone & Pad)\n  2.  SSI (TW): 5台 (Phone)\n  3.  SSI (TW): 5台 
+ (Pad)\n\n\n\n\n  *   請Henry協助執行\n\n請Lisa協助安排工讀生執行\n\n  *   請James協助編撰A11 SS
+ I Script\n\n\nIOT     策略目標以及目前達成率：\n本版本不需進測\n\n\n        None\nPerformance 
+ Test        策略目標以及目前達成率：\n本版本不需進測\n\n        None\nGPS Test        策略目標以及目前
+ 達成率：\n本版本不需進測\n\n        None\n\n\n  *   本次測試重點\n\n  1.  Release Note\n\n項目
+       內容      R&R\n加強測試部分\n\n  *   確認各Domain 的測項涵蓋度 (A11 R-Table)\n  *   Re
+ lease note請參考附件\n\n\n  *   All 確認\n\n\n\n\n  1.  Know issue\n\nApp Function
+     狀態\nPC Sync tool    移除\nASUS Sync tool  移除\nFilpboard       移除\nFaceboo
+ k        移除\nMy library      移除\nMy bit case     移除\nApp backup      移除\nQu
+ ick tool      移除\n親子安全鎖   移除\nZino    新增\npage management 新增\n\n\n\n  1.  A
+ P 版本資訊 (AP進版為紅色部分)\n\n\n        A11- REGRE-Test 7       A11- REGRE-Test 8\n
+ SKU     APP Name        APP Version     APK Size        APK Name        APP
+  Version     APK Size        APK Name\nTW      Amazon Kindle   4.2.0.54    
+     22976 KBs       Kindle.apk      4.2.0.54        22976 KBs       Kindle.
+ ap
+LAST-MODIFIED:20230131T203011Z
+LOCATION:TPE/SZ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fwd: [A11_4.3] ER-REGRE Test-8 _10.14.1.24 TW TEST: 2013/11/20 (三) 
+ 09:00 AM ~2013/11/22 (五) 17:00 PM
+TRANSP:OPAQUE
+ATTACH;FILENAME=ATT84368.jpg:https://mail.google.com/?view=att&th=14279efd7
+ 08dc909&attid=0.0.1&disp=attd&realattid&zw
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2088089565
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201017T100000Z
+DTEND:20201017T130000Z
+DTSTAMP:20260331T043519Z
+UID:70r68cb6cco64b9p6hgjcb9kcor3ibb16gr3eb9l74rjge3469ijcpj4c8@google.com
+CREATED:20200909T144707Z
+DESCRIPTION:Le Cafe 咖啡廳() \n餐廳電話：02-2542-3266\n餐廳地址：台北市中山區中山北路二段37之1號\n\n更詳
+ 細的訂位資訊請點選以下連結\nhttps://inline.app/reservations/-MGnJTF1rYBGJWllDdYW/success
+ ?_time=1599662291587\n貼心提醒：您的座位將保留10分鐘，請記得提早出發。
+LAST-MODIFIED:20200909T144707Z
+LOCATION:台北市中山區中山北路二段37之1號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Le Cafe 咖啡廳() 訂位 - 4位
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210926
+DTEND;VALUE=DATE:20210928
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9th5nj2roje69ahe5f194k2k062ismblfci9or11s70e0ftjsb9gvg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210905T063652Z
+DESCRIPTION:蘭桂坊花園酒店\n60045台灣嘉義市西區延平街250號\n+886 5 228 8228\n\nCheck-in: 2021
+ 年9月26日 上午12:00\nCheck-out: 2021年9月27日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:60045台灣嘉義市西區延平街250號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 蘭桂坊花園酒店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210412
+DTEND;VALUE=DATE:20210414
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t2va4km8qau8ofjim4k44v0uk1n57m80c06v7qeukd86vtmjqk4ug
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210209T030536Z
+DESCRIPTION:樂知旅店YES HOTEL-人氣推薦親子團體商務家庭旅遊民宿住宿 美食餐廳伴手禮租車服務\n950台灣台東縣台東市復興路145
+ 號\n+886 8 932 2100\n\nCheck-in: 2021年4月12日 上午12:00\nCheck-out: 2021年4月13日 上
+ 午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:950台灣台東縣台東市復興路145號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 樂知旅店YES HOTEL-人氣推薦親子團體商務家庭旅遊民宿住宿 美食餐廳伴手禮租車服務
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200124
+DTEND;VALUE=DATE:20200126
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tfo8vobb0qp47d04cqgt6v95hngd22lqep62cntjitgc29qqal490
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200108T020018Z
+DESCRIPTION:礁溪麒麟\n262台灣宜蘭縣礁溪鄉礁溪路五段116號\n+886 3 988 8570\n\n入住時間：2020年1月24日 
+ 上午12:00\n退房時間：2020年1月25日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:262台灣宜蘭縣礁溪鄉礁溪路五段116號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住礁溪麒麟
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150716T193000Z
+DTEND:20150716T200000Z
+DTSTAMP:20260331T043519Z
+UID:c8pj8dj3ccq66b9m70qjab9k6gom6bb2ccqm4b9m6cpjacpkccqmadhicc@google.com
+CREATED:20160323T074637Z
+DESCRIPTION:Test
+LAST-MODIFIED:20160323T074637Z
+LOCATION:taipei
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Test life icon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210918
+DTEND;VALUE=DATE:20210920
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tfdqqm4kf3r9ni9pqfb6jva1ifd1gaeudsrgcab3lm2k9v6o30jn0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210902T064849Z
+DESCRIPTION:非凡假期大飯店\n970台灣花蓮縣花蓮市民國路153號\n+886 3 831 1757\n\nCheck-in: 2021年
+ 9月18日 上午12:00\nCheck-out: 2021年9月19日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:970台灣花蓮縣花蓮市民國路153號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 非凡假期大飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T020000Z
+DTEND:20260331T030000Z
+DTSTAMP:20260331T043519Z
+UID:3bt73vlig2cm14qhnnbfqk8tr6@google.com
+CREATED:20260327T052212Z
+LAST-MODIFIED:20260327T052212Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:訂G蛋
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230530T015500Z
+DTEND:20230530T042500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t9iujt8cnvdlsh5bh94oqe3sld1ro3b98o537opki70g9ti2r5av0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230324T044648Z
+DESCRIPTION:擇台灣虎航 flight 241\n福岡市 FUK 上午10:55 (local time) - 台北市 TPE 下午12:2
+ 5 (local time)\n\nConfirmation number: P9EK7D
+LAST-MODIFIED:20241015T123539Z
+LOCATION:福岡市 FUK
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 台北市 (IT 241)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220424T023000Z
+DTEND:20220424T033000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t9lporufrslo8mh21r6r0l7kcj6u42vrnoelkm0uc7k0v68jevjj0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20211214T030954Z
+DESCRIPTION:立榮航空 flight 8607\n松山 TSA 上午10:30 (local time) - 澎湖 MZG 上午11:30 
+ (local time)\n\nConfirmation number: 55X2ZX
+LAST-MODIFIED:20241015T123539Z
+LOCATION:松山 TSA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 澎湖 (B7 8607)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100325T090000Z
+DTEND:20100325T091500Z
+DTSTAMP:20260331T043519Z
+UID:gk7n7hr1e9g1hs06onm4uauorc@google.com
+CREATED:20100323T043159Z
+LAST-MODIFIED:20230131T203043Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:massage
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220426T072000Z
+DTEND:20220426T081500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t7ad09godar1f8ku937nnric2daselm36kmtjp8arrlk4d1sol4b0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20211213T070344Z
+DESCRIPTION:立榮航空 flight 8612\n澎湖 MZG 下午3:20 (local time) - 松山 TSA 下午4:15 (l
+ ocal time)\n\nConfirmation number: 6L85G2
+LAST-MODIFIED:20241015T123533Z
+LOCATION:澎湖 MZG
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 松山 (B7 8612)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240222T013500Z
+DTEND:20240222T044000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t6i4ogedsb2uan4m9jmifpsvedb7phubgn27fuh57k7f6s2kc7srg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20231007T041928Z
+DESCRIPTION:Peach Aviation flight 620\n台北 (桃園) TPE 上午9:35 (local time) - 東京
+  (成田) NRT 下午1:40 (local time)\n\nConfirmation number: KVSZ6F
+LAST-MODIFIED:20241015T123533Z
+LOCATION:台北 (桃園) TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 東京 (成田) (MM 620)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220122
+DTEND;VALUE=DATE:20220124
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tdgsajldj568tmomlj60gv4vrcfcl3mg4nmsasscf8t3ama7vlb6g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20220117T051753Z
+DESCRIPTION:品文旅 礁渓 HOTEL PIN Jiaoxi\n26241台湾宜蘭縣礁溪鄉健康二街21巷2號\n+886 3 988 909
+ 0\n\nCheck-in: 2022年1月22日 上午12:00\nCheck-out: 2022年1月23日 上午12:00\n
+LAST-MODIFIED:20241015T123535Z
+LOCATION:26241台湾宜蘭縣礁溪鄉健康二街21巷2號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 品文旅 礁渓 HOTEL PIN Jiaoxi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200214
+DTEND;VALUE=DATE:20200216
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tb795ufjrkn1v1m35h1dvq1ei10uc0v27b43k6dble9422ai93iu0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200212T003353Z
+DESCRIPTION:瑞穂天合國際觀光酒店\n978台灣花蓮縣瑞穗鄉溫泉路二段368號\n+886 3 887 6000\n\n入住時間：2020年
+ 2月14日 上午12:00\n退房時間：2020年2月15日 上午12:00\n
+LAST-MODIFIED:20241015T123539Z
+LOCATION:978台灣花蓮縣瑞穗鄉溫泉路二段368號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住瑞穂天合國際觀光酒店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200321
+DTEND;VALUE=DATE:20200323
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t4q070u5eetch04cs0uvtp81fu86ebjrajp0dpf9jia52634dagq0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200316T055047Z
+DESCRIPTION:煙波大飯店台南館\n700台灣台南市中西區永福路一段269號\n+886 6 215 6000\n\n入住時間：2020年3月
+ 21日 上午12:00\n退房時間：2020年3月22日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:700台灣台南市中西區永福路一段269號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住煙波大飯店台南館
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181014T100000Z
+DTEND:20181014T110000Z
+DTSTAMP:20260331T043519Z
+UID:70p6aob36osjeb9g6pijcb9k6oq30b9o6hj30bb6c8r38e326cojacph64@google.com
+CREATED:20180906T141109Z
+LAST-MODIFIED:20180906T141146Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:老爺6點
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T232000Z
+DTEND:20190628T005000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tbrtn17hu5ja9nji2i6efshjspu5bsmej5agtji0p5k6u7m3933rg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20190412T014202Z
+DESCRIPTION:Philippines AirAsia航班 350\n馬尼拉 MNL 上午7:20 (當地時間) - 塔比拉蘭 TAG 上午8
+ :50 (當地時間)\n\n確認號碼：UQCJXF
+LAST-MODIFIED:20241015T123539Z
+LOCATION:馬尼拉 MNL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往塔比拉蘭 (Z2 350)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180727T003000Z
+DTEND:20180727T013000Z
+DTSTAMP:20260331T043519Z
+UID:71gjic3471hj6b9o68o3eb9kcks3ibb2ccpjgbb1ccrjeohi6grj4cj3cc@google.com
+CREATED:20180717T063211Z
+DESCRIPTION:：
+LAST-MODIFIED:20180717T063212Z
+LOCATION:國都(台北市北投區大業路6號                                       )
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:愛車APK-7525預約定期保養
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210510T045500Z
+DTEND:20210510T054500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t7o6n38bir9kcgj8dket2b0188atk5ekhnelt76i899k870eaiveg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210426T034811Z
+DESCRIPTION:立榮航空 flight 9108\n澎湖 MZG 下午12:55 (local time) - 松山 TSA 下午1:45 (
+ local time)\n\nConfirmation number: 639A9K
+LAST-MODIFIED:20241015T123533Z
+LOCATION:澎湖 MZG
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 松山 (B7 9108)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191207
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tmbor56h24jfo8hs6ikvv6mdjubh80uhp5ddarp283enh6u16drh0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20191102T115532Z
+DESCRIPTION:Super Hotel 京都・四条河原町店\n京都市\n+81 75-255-9000\n\n入住時間：2019年12月7日 
+ 上午12:00\n退房時間：2019年12月10日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:Super Hotel 京都・四条河原町店\, 京都市
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Super Hotel 京都・四条河原町店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200403
+DTEND;VALUE=DATE:20200405
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t6acl9lqs1knhpehhjgeilvs4j9caktgns9j7kd23p0unjkdp47c0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200221T005419Z
+DESCRIPTION:捷絲旅花蓮中正館 Just Sleep Hualien Zhongzheng\n970台灣花蓮縣花蓮市中正路396號\n+88
+ 6 3 890 0069\n\n入住時間：2020年4月3日 上午12:00\n退房時間：2020年4月4日 上午12:00\n
+LAST-MODIFIED:20241015T123533Z
+LOCATION:970台灣花蓮縣花蓮市中正路396號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住捷絲旅花蓮中正館 Just Sleep Hualien Zhongzheng
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20200330T140000
+DTEND;TZID=Asia/Taipei:20200330T180000
+RRULE:FREQ=WEEKLY;UNTIL=20200412T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200330T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Owen H
+ uang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T220000Z
+DTEND:20251003T234000Z
+DTSTAMP:20260331T043519Z
+UID:ajbn572a14709lfigcqf09rki4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20251001T220504Z
+DESCRIPTION:JAPAN AIRLINES flight 565\nTOKYO INTL HANEDA TYO 上午7:00 (local 
+ time) - MEMANBETSU MMB 上午8:40 (local time)\n\nConfirmation number: 687ZN8
+LAST-MODIFIED:20251001T220505Z
+LOCATION:TOKYO INTL HANEDA TYO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to MEMANBETSU (JL 565)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20191223T140000
+DTEND;TZID=Asia/Taipei:20191223T180000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20191209T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+RECURRENCE-ID;TZID=Asia/Taipei:20191223T140000
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240306T104500Z
+DTEND:20240306T121500Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:cgs3cchg61gj6bb56opj4b9k69i34b9p6hh3ab9ocphj2cj16so3cchl60@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ anwu0623@gmail.com;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/qkj-xesf-qny
+CREATED:20240229T135036Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/qk
+ j-xesf-qny\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240301T004003Z
+LOCATION:Taiwan\, 台北市松山區民生東路三段103號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:馬友友印度廚房--民生東路 Mayur Indian Kitchen-2 Taipei
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260922T190000Z
+DTEND:20260922T203500Z
+DTSTAMP:20260331T043519Z
+UID:884bvmabt5e3tvaeccv8j1btto@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20251210T211412Z
+DESCRIPTION:Westjet flight 117\nCalgary YYC 下午1:00 (local time) - Vancouver
+  YVR 下午1:35 (local time)\n\nConfirmation number: GZHAYK
+LAST-MODIFIED:20251210T211413Z
+LOCATION:Calgary YYC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Vancouver (WS 117)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20191230T140000
+DTEND;TZID=Asia/Taipei:20191230T180000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20191230T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+RECURRENCE-ID;TZID=Asia/Taipei:20191230T140000
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151030T113000Z
+DTEND:20151030T130000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:83gel4s33c2grsfh3a2otj2kl8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jo
+ an Wu;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+CREATED:20151019T115657Z
+DESCRIPTION:with Jaff and Joan
+LAST-MODIFIED:20230131T203119Z
+LOCATION:我家客家小館\, 112台灣台北市北投區西安街二段125號
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210508T034000Z
+DTEND:20210508T043000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t8g7frlrkrciesu5q7djuv1uqip7r5mst5s3o1bj86knk701mk280
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210426T033848Z
+DESCRIPTION:立榮航空 flight 8609\n松山 TSA 上午11:40 (local time) - 澎湖 MZG 下午12:30 
+ (local time)\n\nConfirmation number: 6348OI
+LAST-MODIFIED:20241015T123533Z
+LOCATION:松山 TSA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 澎湖 (B7 8609)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20200210T140000
+DTEND;TZID=Asia/Taipei:20200210T180000
+RRULE:FREQ=WEEKLY;UNTIL=20200315T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200210T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Owen H
+ uang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20200413T140000
+DTEND;TZID=Asia/Taipei:20200413T180000
+RRULE:FREQ=WEEKLY;UNTIL=20231112T155959Z;BYDAY=MO
+EXDATE;TZID=Asia/Taipei:20220613T140000
+EXDATE;TZID=Asia/Taipei:20220620T140000
+EXDATE;TZID=Asia/Taipei:20221010T140000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200413T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=stonev
+ irus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=meggie
+ 9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=thomas
+ kuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=daphne
+ 821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Owen H
+ uang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=anchin
+ 0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=potter
+ .chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180908
+DTEND;VALUE=DATE:20180910
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9ttlspbihhh0lj5c3rcbis4lad0r1fpodou967u70t8t7dioc244tg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180812T034422Z
+DESCRIPTION:長榮桂冠酒店(台中)\n407台灣台中市西屯區台灣大道二段666號\n+886 4 2313 9988\n\n入住時間：201
+ 8年9月8日 上午12:00\n退房時間：2018年9月9日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:407台灣台中市西屯區台灣大道二段666號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住長榮桂冠酒店(台中)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T054500Z
+DTEND:20250605T091000Z
+DTSTAMP:20260331T043519Z
+UID:8svk64cnakibipda3qvd20skgk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20241224T033340Z
+DESCRIPTION:擇台灣虎航 flight 254\n台北市 TPE 下午1:45 (local time) - 仙台市 SDJ 下午6:10 
+ (local time)\n\nConfirmation number: OYEG6A
+LAST-MODIFIED:20241224T033340Z
+LOCATION:台北市 TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 仙台市 (IT 254)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140130T130000Z
+DTEND:20140130T150000Z
+DTSTAMP:20260331T043519Z
+UID:j35hegfjvjp7abuvqcn0icekmg@google.com
+CREATED:20140130T050947Z
+LAST-MODIFIED:20140130T050947Z
+LOCATION:林口區文林ㄧ街115巷7號5F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:總舖師
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211030
+DTEND;VALUE=DATE:20211101
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t7q3j8rut3cbtcb9tc0b4i5ivq7qpu3hrtkcgfsbma5102o5rknsg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20211024T063927Z
+DESCRIPTION:Hualien Mizuho Hotel 蜜滋賀溫泉飯店\n978台灣花蓮縣瑞穗鄉溫泉一街17號\n+886 3 887 00
+ 99\n\nCheck-in: 2021年10月30日 上午12:00\nCheck-out: 2021年10月31日 上午12:00\n
+LAST-MODIFIED:20241015T123533Z
+LOCATION:978台灣花蓮縣瑞穗鄉溫泉一街17號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at Hualien Mizuho Hotel 蜜滋賀溫泉飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170701
+DTEND;VALUE=DATE:20170703
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tljttodo7tj4a5o0ha80k00q9ki2m1en7h8mej9db1s6vrjngolt0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170517T012158Z
+DESCRIPTION:德雷瑪德羅斯雷登酒店\nOsterreinerstr. 1\, Rieden am Forggensee\, 87669\, 
+ 德國\n+49 8362 9268752\n\n入住時間：2017年7月1日 下午4:00\n退房時間：2017年7月2日 上午10:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:Osterreinerstr. 1\, Rieden am Forggensee\, 87669\, 德國
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住德雷瑪德羅斯雷登酒店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20200127T140000
+DTEND;TZID=Asia/Taipei:20200127T180000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200106T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=albert
+ huangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+RECURRENCE-ID;TZID=Asia/Taipei:20200127T140000
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230329
+DTEND;VALUE=DATE:20230401
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tn5reu91kuono1gmtgu58hpe50r1avo4upgtha8tskclrnc1p6aog
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230314T020036Z
+DESCRIPTION:Shangri-La Tanjung Aru\, Kota Kinabalu\nKota Kinabalu\n+60 88-3
+ 27 888\n\nCheck-in: 2023年3月29日 下午3:00\nCheck-out: 2023年3月31日 下午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:Shangri-La Tanjung Aru\, Kota Kinabalu\, Kota Kinabalu
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at Shangri-La Tanjung Aru\, Kota Kinabalu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200406T182000Z
+DTEND:20200407T042500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9trk48fkob5uc8qtohjladgdr4ih6uqsp1kjbhcfj75chsjgnrae60
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20191130T061039Z
+DESCRIPTION:Korean Air航班 956\n伊斯坦堡 IST 下午9:20 (當地時間) - 首爾 ICN 下午1:25 (當地時間)
+ \n\n確認號碼：MNWFQU
+LAST-MODIFIED:20241015T123538Z
+LOCATION:伊斯坦堡 IST
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往首爾 (KE 956)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20200323T140000
+DTEND;TZID=Asia/Taipei:20200323T180000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200316T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Owen H
+ uang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+RECURRENCE-ID;TZID=Asia/Taipei:20200323T140000
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170707T131500Z
+DTEND:20170707T193500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t68qu9p87gops7290kblceo439i1jqn0souk608f2ie5n1b1a5p3g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170620T154842Z
+DESCRIPTION:阿聯酋航空航班 46\n法蘭克福萊茵美因國際機場 FRA 下午3:15 (當地時間) - 杜拜國際機場 DXB 下午11:35
+  (當地時間)\n\n確認號碼：CBE4XJ
+LAST-MODIFIED:20241015T123533Z
+LOCATION:法蘭克福萊茵美因國際機場 FRA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往杜拜國際機場 (EK 46)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170623T050500Z
+DTEND:20170623T113000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t4csmvc0iftrn12i957le41sa94fts238fn2mudg5q9ilm34nofrg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170620T154842Z
+DESCRIPTION:Emirates航班 139\nDubai DXB 上午9:05 (當地時間) - Prague PRG 下午1:30 (當地
+ 時間)\n\n確認號碼：CBE4XJ
+LAST-MODIFIED:20241015T123532Z
+LOCATION:Dubai DXB
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往Prague (EK 139)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170623
+DTEND;VALUE=DATE:20170628
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tp51fsblqpuv5jvhds10le24aj6fl2ja7d2dpvfmqopshrpqeg300
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170325T073109Z
+DESCRIPTION:1共和國酒店\nV Tunich 1625/8\, Prague 2\, Prague 02\, 捷克\, 12000\n+4
+ 20 224 947 120\n\n入住時間：2017年6月23日 下午2:00\n退房時間：2017年6月27日 下午12:00\n
+LAST-MODIFIED:20241015T123538Z
+LOCATION:1共和國酒店\, V Tunich 1625/8\, Prague 2\, Prague 02\, 捷克\, 12000
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住1共和國酒店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140628T100000Z
+DTEND:20140628T120000Z
+DTSTAMP:20260331T043519Z
+UID:dtet7p4b3gfr55us9o6qjkm0kc@google.com
+CREATED:20140515T145715Z
+DESCRIPTION: 
+LAST-MODIFIED:20140623T055851Z
+LOCATION:老爺酒店
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140108T110000Z
+DTEND:20140108T130000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=joanwu0623@gmail.com:mailto:joanwu0623@gmail.com
+UID:iqkog7eq2m1ep2j0qpruvmqoq0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=joanwu
+ 0623@gmail.com;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jaffku
+ o375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Dennis
+  Yang;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+CREATED:20140104T074832Z
+LAST-MODIFIED:20230131T203121Z
+LOCATION:紅磡港式飲茶
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:在ASUS三個月的心讀分享
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T143000Z
+DTEND:20260916T160000Z
+DTSTAMP:20260331T043519Z
+UID:jnvfd6ddad5bmcot72o94nb8mk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20260105T080938Z
+DESCRIPTION:Westjet flight 104\nVancouver YVR 上午7:30 (local time) - Calgary
+  YYC 上午10:00 (local time)\n\nConfirmation number: GSYFAE
+LAST-MODIFIED:20260210T042342Z
+LOCATION:Vancouver YVR
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Flight to Calgary (WS 104)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240226T034000Z
+DTEND:20240226T080500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tq6ejr6qn2nrmrp1rhbpcbkqctt8bdb21n2rpodba8k8l5vg82sag
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20231007T041928Z
+DESCRIPTION:Peach Aviation flight 625\n東京 (成田) NRT 下午12:40 (local time) - 台
+ 北 (桃園) TPE 下午4:05 (local time)\n\nConfirmation number: KVSZ6F
+LAST-MODIFIED:20241015T123538Z
+LOCATION:東京 (成田) NRT
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 台北 (桃園) (MM 625)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190130T003500Z
+DTEND:20190130T041000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9thl9l3m3db7ifd5oj5argcdpaee3ck8m1tp86qdv3f9is3cf9cpag
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180822T040835Z
+DESCRIPTION:China Airlines航班 130\n臺北市 TPE 上午8:35 (當地時間) - 札幌市 CTS 下午1:10 (當
+ 地時間)\n\n確認號碼：Q5FEFD
+LAST-MODIFIED:20241015T123534Z
+LOCATION:臺北市 TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往札幌市 (CI 130)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140126T100000Z
+DTEND:20140126T110000Z
+DTSTAMP:20260331T043519Z
+UID:haohoaot8e30ls7i9vtmlv7ft0@google.com
+CREATED:20140129T095122Z
+LAST-MODIFIED:20140129T095122Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Truth plz go to there 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20240401T140000
+DTEND;TZID=Asia/Taipei:20240401T180000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20240407T060000Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:8ahv43hta83i362ske8fec9vpg_R20240401T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ pichien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=de
+ brachen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ amchen1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ dchentw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=by
+ chen81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=du
+ ncanliao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hi
+ rose1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ rry2669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240411T092331Z
+LOCATION:台北敦南會議室
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T052000Z
+DTEND:20190206T100000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tqka25tt8h1r9dmd7a4bk9dbrq3q7tgb69lsks1dq1bcv86cmbgqg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180822T040835Z
+DESCRIPTION:China Airlines航班 131\n札幌市 CTS 下午2:20 (當地時間) - 臺北市 TPE 下午6:00 (當
+ 地時間)\n\n確認號碼：Q5FEFD
+LAST-MODIFIED:20241015T123538Z
+LOCATION:札幌市 CTS
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往臺北市 (CI 131)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20240401T140000
+DTEND;TZID=Asia/Taipei:20240401T180000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:8ahv43hta83i362ske8fec9vpg_R20240401T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ pichien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ amchen1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ dchentw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=by
+ chen81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=du
+ ncanliao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hi
+ rose1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ rry2669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+RECURRENCE-ID;TZID=Asia/Taipei:20240401T140000
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240505T085412Z
+LOCATION:台北敦南會議室
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230525T224500Z
+DTEND:20230526T010500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tdnm5vhvkcub00lg91uq1e82hds5u80a0h5b3d3nn370mp81rv85g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230324T044648Z
+DESCRIPTION:擇台灣虎航 flight 240\n台北市 TPE 上午6:45 (local time) - 福岡市 FUK 上午10:05
+  (local time)\n\nConfirmation number: P9EK7D
+LAST-MODIFIED:20241015T123535Z
+LOCATION:台北市 TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 福岡市 (IT 240)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20140627T190000
+DTEND;TZID=Asia/Taipei:20140627T200000
+DTSTAMP:20260331T043519Z
+UID:5i0ollr28g7ocerb1075ga6sao@google.com
+RECURRENCE-ID;TZID=Asia/Taipei:20140627T190000
+CREATED:20140621T011118Z
+LAST-MODIFIED:20140623T110241Z
+LOCATION:中山北路二段20巷1-1號
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Quarter dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190909
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t1p7276h6f1sap9t3gnaaet7fr79v43q15luihvbqunrrpfk9j12g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20190730T014438Z
+DESCRIPTION:福容大飯店 花蓮\n970台灣花蓮縣花蓮市民生路51號\n+886 3 823 9988\n\n入住時間：2019年9月6日 
+ 上午12:00\n退房時間：2019年9月8日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:970台灣花蓮縣花蓮市民生路51號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住福容大飯店 花蓮
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200328T042500Z
+DTEND:20200328T065000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tefbp0v3t1ddkv23q9nnngibch6m778pv6a4o8a3fi5j5g17ftve0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20191130T061039Z
+DESCRIPTION:Korean Air航班 692\n台北 TPE 下午12:25 (當地時間) - 首爾 ICN 下午3:50 (當地時間)\
+ n\n確認號碼：MNWFQU
+LAST-MODIFIED:20241015T123535Z
+LOCATION:台北 TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往首爾 (KE 692)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200407T070500Z
+DTEND:20200407T094000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tvjk99gu3cdrrkagtm20spvtqsvv0vd3agnskvsnj5npa5mckcbf0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20191130T061039Z
+DESCRIPTION:Korean Air航班 693\n首爾 ICN 下午4:05 (當地時間) - 台北 TPE 下午5:40 (當地時間)\n
+ \n確認號碼：MNWFQU
+LAST-MODIFIED:20241015T123537Z
+LOCATION:首爾 ICN
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往台北 (KE 693)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170127
+DTEND;VALUE=DATE:20170129
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tdb28b1rud1pm6qmgqv6298emcvl5ujli38m2b6i48j3t33lfdpug
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20161208T071519Z
+DESCRIPTION:城市商旅礁溪楓葉館\n262台灣\, 宜蘭縣礁溪鄉礁溪路五段118號\n+886 3 988 8565\n\n入住時間：201
+ 7年1月27日 上午12:00\n退房時間：2017年1月28日 上午12:00\n
+LAST-MODIFIED:20241015T123535Z
+LOCATION:262\, Taiwan\, 宜蘭縣礁溪鄉礁溪路五段118號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住城市商旅礁溪楓葉館
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190203
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tl4dubi1nf05fgkbg2q5h3b0t613ot36qifrabm1kmm85e8u1004g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180828T041433Z
+DESCRIPTION:定山渓ビューホテル\n札幌市\n+81 11-598-3223\n\n入住時間：2019年1月31日 上午12:00\n退房時
+ 間：2019年2月2日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:定山渓ビューホテル\, 札幌市
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住定山渓ビューホテル
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T235000Z
+DTEND:20180331T020000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tkqcb62k97a7kccqe8go6joab9bv9lksv864h3lkd6gvv6rg9q6vg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180315T102805Z
+DESCRIPTION:China Airlines航班 188\n臺北市 TPE 上午7:50 (當地時間) - 釜山廣域市 PUS 上午11:00
+  (當地時間)\n\n確認號碼：QEPLE6
+LAST-MODIFIED:20241015T123534Z
+LOCATION:臺北市 TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往釜山廣域市 (CI 188)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260405T033000Z
+DTEND:20260405T043000Z
+DTSTAMP:20260331T043519Z
+UID:6qqmc2d5lef7pu8iuu9916vpat@google.com
+CREATED:20260327T052240Z
+LAST-MODIFIED:20260327T052240Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:遠銀登錄
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140620T070000Z
+DTEND:20140620T080000Z
+DTSTAMP:20260331T043519Z
+UID:813fl7flai3qbj70s75134rpm0@google.com
+CREATED:20140621T065116Z
+LAST-MODIFIED:20140621T065116Z
+LOCATION:tbd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Test
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20190729T140000
+DTEND;TZID=Asia/Taipei:20190729T180000
+RRULE:FREQ=WEEKLY;UNTIL=20191208T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20190729T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T033000Z
+DTEND:20260417T070000Z
+DTSTAMP:20260331T043519Z
+UID:4raes61dd1lcemel61n6v0qgek@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ ff Kuo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20260327T100828Z
+DESCRIPTION:團隊共好活動\n\n餐廳：NAGOMI 中山本店（欣葉集團）\n地址：台北市大同區南京西路62號4樓（捷運中山站6號出口）\n
+ 電話：02-2559-2258\n\n午餐自助餐 11:30-15:00\n平日成人 NT$1\,380 +10%服務費\n\n人數：13人\n訂金：
+ 每人500元 x 13 = NT$6\,500\n\n備註：使用到上班時間需請私人假別\n\n餐廳資訊：https://www.shinyeh.com
+ .tw/content/zh/brand/Store.aspx?BrandId=14&Id=44
+LAST-MODIFIED:20260327T100828Z
+LOCATION:NAGOMI 中山本店\, 台北市大同區南京西路62號4樓
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:2026 第一次團隊共好 - NAGOMI 中山本店午餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180531T110000Z
+DTEND:20180531T130000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:64q68cpoc9h3gb9kc9hmab9k75h32b9p6th3ib9k70pjedr370o34dhk6g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Joan W
+ u;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+CREATED:20180530T043209Z
+DESCRIPTION: 
+LAST-MODIFIED:20230131T203048Z
+LOCATION:LULU餐厅\, 105台湾台北市松山區民生東路三段113巷9號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231016T060000Z
+DTEND:20231016T065000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t6a14bmdbi15ku30tkuurp1k4d41qh8j0ckeog4o29o1e33ehipog
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230807T051316Z
+DESCRIPTION:Uni Airways flight 8610\n澎湖 MZG 下午2:00 (local time) - 台北 TSA 下午
+ 2:50 (local time)\n\nConfirmation number: 536H2V
+LAST-MODIFIED:20241015T123533Z
+LOCATION:澎湖 MZG
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 台北 (B7 8610)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210925
+DTEND;VALUE=DATE:20210927
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9telpgjhlupdqb73bgpi8m1542167es3v0bh1q67krg76ivog39oig
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210905T062911Z
+DESCRIPTION:三好國際酒店Sun Hao International Hotel\n640台灣雲林縣斗六市斗六五路35號\n+886 5 5
+ 51 0999\n\nCheck-in: 2021年9月25日 上午12:00\nCheck-out: 2021年9月26日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:640台灣雲林縣斗六市斗六五路35號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 三好國際酒店Sun Hao International Hotel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210911
+DTEND;VALUE=DATE:20210913
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t50ak7f36ttntrdmvdr13glf1bi9as190539oej84gqf5hbl13gfg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210815T082250Z
+DESCRIPTION:馥麗溫泉大飯店Fuli Hot Spring Resort\n555台灣南投縣魚池鄉中山路250-2號\n+886 4 928
+ 5 6698\n\nCheck-in: 2021年9月11日 上午12:00\nCheck-out: 2021年9月12日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:555台灣南投縣魚池鄉中山路250-2號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 馥麗溫泉大飯店Fuli Hot Spring Resort
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161231T040500Z
+DTEND:20161231T060500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tu1l7kdujhju16e3p1msstqkqi0lhpbd03bgutul9vh8q06it21s0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20161225T024521Z
+DESCRIPTION:China Airlines航班 502\n上海市 PVG 下午12:05 (當地時間) - 臺北市 TPE 下午2:05 (
+ 當地時間)\n\n確認號碼：8SB6UG
+LAST-MODIFIED:20241015T123537Z
+LOCATION:上海市 PVG
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往臺北市 (CI 502)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161228T043000Z
+DTEND:20161228T061500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tblvc8554u6pnspij18vvjbgh7qg48h1dj7saoc6l1b07vro63po0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20161225T024520Z
+DESCRIPTION:China Airlines航班 201\n臺北市 TSA 下午12:30 (當地時間) - 上海市 SHA 下午2:15 (
+ 當地時間)\n\n確認號碼：8SB6UG
+LAST-MODIFIED:20241015T123539Z
+LOCATION:臺北市 TSA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往上海市 (CI 201)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170628
+DTEND;VALUE=DATE:20170701
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tpi1qrh51a8k8b6551gmdquehov35k0qme3fmiqnr0p33ebsbg3mg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170517T091842Z
+DESCRIPTION:布魯茂百水溫泉大飯店\nBad Blumau 100\, Bad Blumau\, 8283\, 奧地利\n+43 3383 
+ 51000\n\n入住時間：2017年6月28日 下午4:00\n退房時間：2017年6月30日 上午11:00\n
+LAST-MODIFIED:20241015T123538Z
+LOCATION:Bad Blumau 100\, Bad Blumau\, 8283\, 奧地利
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住布魯茂百水溫泉大飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231211T062500Z
+DTEND:20231211T094500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tge8ggl2erlo45lilbfl3pc74i0cluh5u2ctroddk8icii8ep7j0g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230829T121957Z
+DESCRIPTION:Peach Aviation flight 27\n大阪 (關西) KIX 下午3:25 (local time) - 台北 
+ (桃園) TPE 下午5:45 (local time)\n\nConfirmation number: DN7SFQ
+LAST-MODIFIED:20241015T123534Z
+LOCATION:大阪 (關西) KIX
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 台北 (桃園) (MM 27)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20210412T140000
+DTEND;TZID=Asia/Taipei:20210412T180000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200413T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=stonev
+ irus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=meggie
+ 9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=thomas
+ kuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=daphne
+ 821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Owen H
+ uang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=anchin
+ 0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=potter
+ .chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+RECURRENCE-ID;TZID=Asia/Taipei:20210412T140000
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190415T103053Z
+DTEND:20190415T123053Z
+DTSTAMP:20260331T043519Z
+UID:cli64d9gc8smab9gc9gm4b9k6soj6b9pc4qmcbb56oqmadpicoqjidpmco@google.com
+CREATED:20190408T085354Z
+DESCRIPTION:SUNNY BUFFET( ) \n餐廳電話： (02)2719-7199 #3310\n餐廳地址：台北市松山區敦化北路100
+ 號\n\n更詳細的訂位資訊請點選以下連結\nhttps://inline.app/reservations/-Lbw89p_bZTr-clA1Xwb\
+ n貼心提醒：您的座位將保留10分鐘，請記得提早出發。
+LAST-MODIFIED:20190408T085355Z
+LOCATION:台北市松山區敦化北路100號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SUNNY BUFFET( ) 訂位 - 3位
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20130614T060000Z
+DTEND:20130614T073000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=jenny77_ma@asus.com:mailto:jenny77_ma@asus.com
+UID:040000008200E00074C5B7101A82E00800000000A0DF175DFD65CE01000000000000000
+ 010000000EA9B0CE57CF8044E9300017AB1C466E9
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lo
+ tus_chen@asus.com;X-NUM-GUESTS=0:mailto:lotus_chen@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20130610T091010Z
+DESCRIPTION:When: 2013年6月14日星期五 下午 02:00-下午 03:30 (UTC+08:00) 台北。\nWhere: A
+ SUS HQ T09 Room\n\nNote: The GMT offset above does not reflect daylight sav
+ ing time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\n\nFrom: Jenny77 Ma(馬萩珍)\nSe
+ nt: Friday\, June 07\, 2013 6:16 PM\nTo: Lotus Chen(陳學群)\; jaffkuo375@gmail
+ .com<mailto:jaffkuo375@gmail.com>\nSubject: RE: Meeting Jaff Kuo on Friday 
+ (6/14) 2 PM\n\nDear Jaff\,\nYour entrance No. is GA130027897.\nWhen you arr
+ ive ASUS HQ\, please inform the front gate No. GA130027897\, they will let 
+ you go inside the building.\n\nMeeting room will be confirmed next week.\n(
+ ASUS HQ Address: 台北市北投區立德路15號)\n\nIf any problem\, please feel free to cont
+ act Jenny.\nThank you~\nBR\,\njenny\n\n\nFrom: Lotus Chen(陳學群)\nSent: Frida
+ y\, June 07\, 2013 5:36 PM\nTo: Jenny77 Ma(馬萩珍)\; jaffkuo375@gmail.com<mail
+ to:jaffkuo375@gmail.com>\nSubject: Meeting Jaff Kuo on Friday (6/14) 2 PM\n
+ \nHi Jenny\,\n\nPlease help me to arrange the visit for Jaff on 6/14 Friday
+  2 PM next week. Thanks.\n\nlotus\n\n-----Original Message-----\nFrom: Lotu
+ s Chen(陳學群)\nSent: Friday\, June 7\, 2013 5:23 PM\nTo: Lotus Chen(陳學群)\nSub
+ ject: Jaff Kuo contact\n\n\nno problem\, this is my personal email: jaffkuo
+ 375@gmail.com<mailto:jaffkuo375@gmail.com>.\nI need some time to modify my 
+ resume\, it's not revised for five years. :)\n\n從我的PadFone傳送\n\n\n
+LAST-MODIFIED:20230131T203057Z
+LOCATION:ASUS HQ T09 Room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting with Jaff Kuo  (by Lotus)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:1087006685
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140919T113000Z
+DTEND:20140919T133000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:ne5e7q5n6efep6nfpoadk3cjjk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jo
+ an Wu;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+CREATED:20140904T063547Z
+LAST-MODIFIED:20230131T203045Z
+LOCATION:sabrina house 紗汀娜好食\, 台灣台北市中山區中山北路2段183巷1之5號
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY: 聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T090000Z
+DTEND:20260404T110000Z
+DTSTAMP:20260331T043519Z
+UID:ff3ghu0cst1d7l9e1vnhu64k9k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ ff Kuo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20260330T035536Z
+LAST-MODIFIED:20260330T035537Z
+LOCATION:立德公園對面
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:大仁哥烤雞
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240315
+DTEND;VALUE=DATE:20240317
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tfhg8gr7v5gluducqs2fqp3v4cnphau72eid7252o3eg39bhl1ou0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20240213T054419Z
+DESCRIPTION:Lan Kwai Fong Garden Hotel 嘉義蘭桂坊花園酒店\nNo. 250\, Yenping Street\
+ , *\, Chiayi\, 60045\, 台灣\n+886 5 228 8228\n\nCheck-in: 2024年3月15日 上午12:00\
+ nCheck-out: 2024年3月16日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:No. 250\, Yenping Street\, *\, Chiayi\, 60045\, 台灣
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at Lan Kwai Fong Garden Hotel 嘉義蘭桂坊花園酒店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190202
+DTEND;VALUE=DATE:20190205
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tcaeqmp4kb6mrtr8aiv0acmeug14u8rug2d7okgb50vmil20h2arg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180828T041433Z
+DESCRIPTION:ザレイクビューＴＯＹＡ乃の風リゾート\n日本\, 北海道\, 虻田郡洞爺湖町洞爺湖温泉29−１\n+81 142-75-260
+ 0\n\n入住時間：2019年2月2日 上午12:00\n退房時間：2019年2月4日 上午12:00\n
+LAST-MODIFIED:20241015T123535Z
+LOCATION:日本\, 北海道\, 虻田郡洞爺湖町洞爺湖温泉29−１
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住ザレイクビューＴＯＹＡ乃の風リゾート
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230402T220500Z
+DTEND:20230403T012500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t11l6j5i7nrdvio5qgsjqtji4h61vdqclk6s3e3s794q7v7q7a6k0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230327T022437Z
+DESCRIPTION:AirAsia flight 1510\nKota Kinabalu BKI 上午6:05 (local time) - Ta
+ ipei City TPE 上午9:25 (local time)\n\nConfirmation number: M4JV5J
+LAST-MODIFIED:20241015T123537Z
+LOCATION:Kota Kinabalu BKI
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Taipei City (AK 1510)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200329T044000Z
+DTEND:20200329T164000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9th0rtnodd9od6v6kfnm7p66pv5kmahe8qth4v2fdgmajf5spau5b0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20191130T061039Z
+DESCRIPTION:Korean Air航班 955\n首爾 ICN 下午1:40 (當地時間) - 伊斯坦堡 IST 下午7:40 (當地時間)
+ \n\n確認號碼：MNWFQU
+LAST-MODIFIED:20241015T123534Z
+LOCATION:首爾 ICN
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往伊斯坦堡 (KE 955)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T100000Z
+DTEND:20250612T135500Z
+DTSTAMP:20260331T043519Z
+UID:u6k47lkrem9kuvp8gniqns5kp4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20241224T033340Z
+DESCRIPTION:擇台灣虎航 flight 255\n仙台市 SDJ 下午7:00 (local time) - 台北市 TPE 下午9:55 
+ (local time)\n\nConfirmation number: OYEG6A
+LAST-MODIFIED:20241224T033340Z
+LOCATION:仙台市 SDJ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 台北市 (IT 255)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180404T110000Z
+DTEND:20180404T134000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t1ks4avr41dguahh3uvplp0404s61q1pvj4frlf0ai81hk0b6dgk0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180315T102805Z
+DESCRIPTION:China Airlines航班 187\n釜山廣域市 PUS 下午8:00 (當地時間) - 臺北市 TPE 下午9:40 
+ (當地時間)\n\n確認號碼：QEPLE6
+LAST-MODIFIED:20241015T123537Z
+LOCATION:Busan PUS
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往臺北市 (CI 187)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200402T100000Z
+DTEND:20200402T113000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:2001160128191378725067-2003240143591163472357-2003200739438097458680@ac
+ cuvally.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200402T100000Z
+DESCRIPTION:活動網址：https://www.accupass.com/event/2001160128191378725067
+LAST-MODIFIED:20230131T203120Z
+LOCATION:台灣花蓮縣光復鄉農場路31號 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:2020大農大富賞螢趣 - 2020/04/02 - 縣民社福票 - 第一梯次 18:30-19:30
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T003000Z
+DTEND:20180123T013000Z
+DTSTAMP:20260331T043519Z
+UID:6or6ao9n64rmcbb6cdh68b9kclgjebb16cr6ab9i69j36dpp6sq36or670@google.com
+CREATED:20180108T013950Z
+DESCRIPTION:定期保養
+LAST-MODIFIED:20180108T013950Z
+LOCATION:國都汽車陽明服務廠(台北市北投區大業路6號)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:愛車APK-7525預約定期保養
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160711T110000Z
+DTEND:20160711T133000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:p64qnabl0rnma7ja40r8t82g6g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jaffku
+ o375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jack1.
+ chu@mgsei.com;X-NUM-GUESTS=0:mailto:jack1.chu@mgsei.com
+CREATED:20160711T021647Z
+DESCRIPTION:台北市士林區中山北路六段77號8樓\n近捷運芝山站
+LAST-MODIFIED:20230131T203023Z
+LOCATION:新葡苑餐廳 Sogo天母店8F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170626T060000Z
+DTEND:20170626T085000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:-1623958364@regiojet.cz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ ff Kuo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20170516T155448Z
+DESCRIPTION:Arrival/Departure|Station/Transfer|Platf.|Connection|Coach/Seat
+ s\nDep:08:00|Prague\, Na Knížecí|1|Prague → Český Krumlov (SA)|39\, 40\, 43
+ \, 44\nArr:10:50|Český Krumlov\, Špičák\n
+LAST-MODIFIED:20230131T203010Z
+LOCATION:50.0684051513672\, 14.4044494628906
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:#5323651788: From Prague\, Na Knížecí\, 1\, to Český Krumlov\, Špič
+ ák\, seats: [39\,40\,43\,44]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100426T080000Z
+DTEND:20100426T133000Z
+DTSTAMP:20260331T043519Z
+UID:ae8ban4j57c9inq9kr8soqhn54@google.com
+CREATED:20100406T052307Z
+LAST-MODIFIED:20230131T203031Z
+LOCATION:貓空
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:QA outing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20190725T100000
+DTEND;TZID=Asia/Taipei:20190725T120000
+RRULE:FREQ=WEEKLY;UNTIL=20191106T155959Z;BYDAY=TH
+EXDATE;TZID=Asia/Taipei:20190801T100000
+EXDATE;TZID=Asia/Taipei:20190822T100000
+EXDATE;TZID=Asia/Taipei:20190808T100000
+EXDATE;TZID=Asia/Taipei:20190912T100000
+EXDATE;TZID=Asia/Taipei:20190829T100000
+EXDATE;TZID=Asia/Taipei:20191024T100000
+EXDATE;TZID=Asia/Taipei:20190815T100000
+EXDATE;TZID=Asia/Taipei:20191031T100000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6ocf734e0j85hrblsagbfm4stu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ dchentw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dqbruc
+ e@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hi
+ rosei1979@gmail.com;X-NUM-GUESTS=0:mailto:hirosei1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ amchen1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=de
+ brachen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=dong72
+ 1@gmail.com;X-NUM-GUESTS=0:mailto:dong721@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ k.fu@ecareme.com;X-NUM-GUESTS=0:mailto:ack.fu@ecareme.com
+CREATED:20190724T084758Z
+LAST-MODIFIED:20230131T203117Z
+LOCATION:新竹國網中心
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:國網專案進度會議
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150821T010000Z
+DTEND:20150821T020000Z
+DTSTAMP:20260331T043519Z
+UID:74o3id1m65ijab9k6comab9k6hhjgbb2cgojabb168sjao9kc4sjephi6o@google.com
+CREATED:20160323T074646Z
+LAST-MODIFIED:20160323T074646Z
+LOCATION:日本
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:京坂神
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180202T095500Z
+DTEND:20180202T112500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tnm4aj06ammolghkv6q3buuh8ror2nuo59g5a1nfu5ue5jcs38dj0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20171230T123205Z
+DESCRIPTION:Peach Aviation航班 928\n臺北市 TPE 下午5:55 (當地時間) - 沖繩島 OKA 下午8:25 (當
+ 地時間)\n\n確認號碼：MBY9UP
+LAST-MODIFIED:20241015T123538Z
+LOCATION:臺北市 TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往沖繩島 (MM 928)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200704T003000Z
+DTEND:20200704T013000Z
+DTSTAMP:20260331T043519Z
+UID:74qmcc9k6pgj6bb4cpj38b9kc4q3ibb2c8oj6b9hcosjidj16gojae1n6o@google.com
+CREATED:20200623T065235Z
+DESCRIPTION:：
+LAST-MODIFIED:20200623T065235Z
+LOCATION:國都(新北市林口區寶林路21號                                      )
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:愛車APK-7525預約定期保養
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190908
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t9lb8212d5gjfuqfpb40vip1b9tmq2seb80fmlj1aieo8idqauh80
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20190730T015256Z
+DESCRIPTION:福容大飯店 花蓮\n970台灣花蓮縣花蓮市民生路51號\n+886 3 823 9988\n\n入住時間：2019年9月8日 
+ 上午12:00\n退房時間：2019年9月9日 上午12:00\n
+LAST-MODIFIED:20241015T123539Z
+LOCATION:970台灣花蓮縣花蓮市民生路51號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住福容大飯店 花蓮
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20140613T190000
+DTEND;TZID=Asia/Taipei:20140613T200000
+RRULE:FREQ=MONTHLY;WKST=SU;COUNT=3;BYDAY=4FR
+DTSTAMP:20260331T043519Z
+UID:5i0ollr28g7ocerb1075ga6sao@google.com
+CREATED:20140621T011118Z
+LAST-MODIFIED:20140621T064644Z
+LOCATION:tbd
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Quarter dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150812T010000Z
+DTEND:20150812T020000Z
+DTSTAMP:20260331T043519Z
+UID:cgs3cdj26tgm8bb374r68b9kc5i38b9p65i6ab9h6th66dr271hmae1g60@google.com
+CREATED:20160323T074643Z
+LAST-MODIFIED:20160323T074643Z
+LOCATION:北投
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:二週年
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200228
+DTEND;VALUE=DATE:20200301
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t4t27c5iqmscsivkug7anhg07gpsjmn9a0dopo408v6p10rs310f0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200219T084627Z
+DESCRIPTION:川湯春天溫泉飯店\n262台灣宜蘭縣礁溪鄉德陽路43號\n+886 3 988 9889\n\n入住時間：2020年2月28日
+  上午12:00\n退房時間：2020年2月29日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:262台灣宜蘭縣礁溪鄉德陽路43號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住川湯春天溫泉飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200907T040500Z
+DTEND:20200907T045500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tuchhben50jfkuri2tqjjsrrhhhnqpr2rtoa0r244gklh0n0ah950
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200818T011634Z
+DESCRIPTION:立榮航空航班 9096\n南竿 LZN 下午12:05 (當地時間) - 松山 TSA 下午12:55 (當地時間)\n\n確
+ 認號碼：WLVZ4Z
+LAST-MODIFIED:20241015T123537Z
+LOCATION:南竿 LZN
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往松山 (B7 9096)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170626T150500Z
+DTEND:20170626T175500Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:-1623953692@regiojet.cz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ ff Kuo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20170516T155447Z
+DESCRIPTION:Arrival/Departure|Station/Transfer|Platf.|Connection|Coach/Seat
+ s\nDep:17:05|Český Krumlov\, Špičák|Český Krumlov → Prague (SA)|9\, 10\, 13
+ \, 14\nArr:19:55|Prague\, Na Knížecí\n
+LAST-MODIFIED:20230131T203040Z
+LOCATION:48.81545639038086\, 14.315909385681152
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:#5323651788: From Český Krumlov\, Špičák\, to Prague\, Na Knížecí\,
+  seats: [9\,10\,13\,14]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140627T113000Z
+DTEND:20140627T133000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:4pci4fisvun4gjibvrt9qkqdv4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Joan W
+ u;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+CREATED:20140623T094149Z
+DESCRIPTION:with Jaff and Joan\n\n台北市中山區中山北路二段20巷1-1號‎\n\nhttps://maps.goog
+ le.com.tw/maps?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%
+ B7%AF2%E6%AE%B520%E5%B7%B71%E4%B9%8B1%E8%99%9F&es_sm=122&um=1&ie=UTF-8&hl=z
+ h-TW&sa=N&tab=wl\n\n
+LAST-MODIFIED:20230131T203059Z
+LOCATION:台灣台北市中山區中山北路二段20巷二月半そば
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160315T120000Z
+DTEND:20160315T130000Z
+DTSTAMP:20260331T043519Z
+UID:coojedb46dh32bb36lim4b9k6tj6abb265h64bb1c9ij6dj3c4r34ohlcg@google.com
+CREATED:20160301T093905Z
+LAST-MODIFIED:20160301T093905Z
+LOCATION:林口家樂福
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:家樂福購物
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231206T025500Z
+DTEND:20231206T052500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9te5pt6krgklvmijnfvsankq0mrbnv8c9j8n2ehn2i1132f52kip10
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230829T121957Z
+DESCRIPTION:Peach Aviation flight 24\n台北 (桃園) TPE 上午10:55 (local time) - 大阪
+  (關西) KIX 下午2:25 (local time)\n\nConfirmation number: DN7SFQ
+LAST-MODIFIED:20241015T123535Z
+LOCATION:台北 (桃園) TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 大阪 (關西) (MM 24)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T005500Z
+DTEND:20250130T054000Z
+DTSTAMP:20260331T043519Z
+UID:eumvilpvropib7us10nq6nn5oc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20241008T062513Z
+DESCRIPTION:Scoot flight 874\nSingapore SIN 上午8:55 (local time) - Taipei Ci
+ ty TPE 下午1:40 (local time)\n\nConfirmation number: 5H7HLM
+LAST-MODIFIED:20250306T211414Z
+LOCATION:Singapore SIN
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Flight to Taipei City (TR 874)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140309T130000Z
+DTEND:20140309T140000Z
+DTSTAMP:20260331T043519Z
+UID:83ld0q27svodue7p1p48hja39g@google.com
+CREATED:20140309T093239Z
+LAST-MODIFIED:20140309T093239Z
+LOCATION:林口區文林ㄧ街115巷7號5F
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Movie super nine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220302
+DTEND;VALUE=DATE:20220304
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t3cgaln3toe00d48j17c8kc9dij7ebgtls4i65mcd3d8juo5kv6mg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20220301T004156Z
+DESCRIPTION:捷絲旅宜蘭礁溪館 - Just Sleep Yilan Jiaoxi\n262台灣宜蘭縣礁溪鄉德陽路24巷8號\n+886 3
+  910 2000\n\nCheck-in: 2022年3月2日 上午12:00\nCheck-out: 2022年3月3日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:262台灣宜蘭縣礁溪鄉德陽路24巷8號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 捷絲旅宜蘭礁溪館 - Just Sleep Yilan Jiaoxi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150808T100000Z
+DTEND:20150808T120000Z
+DTSTAMP:20260331T043519Z
+UID:6lij0cr570o64b9p74rj8b9kcdgmab9pclgmcbb36gp30o9lcko64eb1co@google.com
+CREATED:20160323T074648Z
+LAST-MODIFIED:20160323T074648Z
+LOCATION:新店
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:福源餐廳
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180303
+DTEND;VALUE=DATE:20180305
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tkj7u92i0m2rl6n4n0l9fcherrtlpv1dc4qvheqt1kjdd8st18660
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180225T091007Z
+DESCRIPTION:山口溫泉飯店\n262台灣宜蘭縣礁溪鄉五峰路2號\n+886 3 988 9273\n\n入住時間：2018年3月3日 上午1
+ 2:00\n退房時間：2018年3月4日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:262台灣宜蘭縣礁溪鄉五峰路2號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住山口溫泉飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170427T110000Z
+DTEND:20170427T133000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:1c6r11o1jgcc49dr32d1uk4128@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck1.chu@mgsei.com;X-NUM-GUESTS=0:mailto:jack1.chu@mgsei.com
+CREATED:20170420T115245Z
+LAST-MODIFIED:20230131T203034Z
+LOCATION:非常泰 Sogo天母店 8F
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200226T040000Z
+DTEND:20200226T050000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=Jaff Kuo:mailto:jaffkuo375@gmail.com
+UID:4uvn9h1h80sboqa1h50e4k25f0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ ris_chen@asus.com;X-NUM-GUESTS=0:mailto:chris_chen@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20200226T025215Z
+LAST-MODIFIED:20230131T203056Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20190729T140000
+DTEND;TZID=Asia/Taipei:20191111T180000
+RRULE:FREQ=WEEKLY;UNTIL=20190728T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hi
+ rose1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170630
+DTEND;VALUE=DATE:20170702
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tht55lt7b7v5s0lg6ssoq51mkomnt978e0v4d2820m6hek21d1btg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170417T061350Z
+DESCRIPTION:Gasthof Simony\nWolfengasse 105\, 4830 Hallstatt\, Austria\n+43
+  6134 8231\n\n入住時間：2017年6月30日 上午12:00\n退房時間：2017年7月1日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:Wolfengasse 105\, 4830 Hallstatt\, Austria
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Gasthof Simony
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180907
+DTEND;VALUE=DATE:20180909
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tqvil8pqulrpv48m7tqdlktfvmsj5frhpmklsr7nsgv8rv6laki7g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180906T081257Z
+DESCRIPTION:Yoou-Shan Grand Hotel\n545台灣南投縣埔里鎮樹人路131號\n+886 4 9298 1122\n\n
+ 入住時間：2018年9月7日 上午12:00\n退房時間：2018年9月8日 上午12:00\n
+LAST-MODIFIED:20241015T123538Z
+LOCATION:545台灣南投縣埔里鎮樹人路131號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Yoou-Shan Grand Hotel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260919T134000Z
+DTEND:20260919T154900Z
+DTSTAMP:20260331T043519Z
+UID:ambsp481cmt70q7fq581j1jojk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20251210T211412Z
+DESCRIPTION:Westjet flight 684\nYellowknife YZF 上午7:40 (local time) - Calga
+ ry YYC 上午9:49 (local time)\n\nConfirmation number: QBJWBY
+LAST-MODIFIED:20251210T211413Z
+LOCATION:Yellowknife YZF
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Calgary (WS 684)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150818T040000Z
+DTEND:20150818T050000Z
+DTSTAMP:20260331T043519Z
+UID:74p36cpn6pj6cb9icgo3ab9k65gm2bb1c9h38b9ocpgj2d1h6ph3gcb5ck@google.com
+CREATED:20160323T074644Z
+LAST-MODIFIED:20160323T074644Z
+LOCATION:桃園機場
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:瑞典出發
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191222
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tnc5bnj22m2kojv5brvte7iobu9tflmcvvh0hhsj2m2tudpj1hql0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20191201T011945Z
+DESCRIPTION:礁溪麒麟\n262台灣宜蘭縣礁溪鄉礁溪路五段116號\n+886 3 988 8570\n\n入住時間：2019年12月22日
+  上午12:00\n退房時間：2019年12月23日 上午12:00\n
+LAST-MODIFIED:20241015T123538Z
+LOCATION:262台灣宜蘭縣礁溪鄉礁溪路五段116號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住礁溪麒麟
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180716
+DTEND;VALUE=DATE:20180723
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tnjlkh5k239qnbc1hoa87t9uvt3pk6q98nlf10065nq4aq4u81fug
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180712T043149Z
+DESCRIPTION:星野リゾート 磐梯山温泉ホテル\n磐梯町\n+81 570-073-022\n\n入住時間：2018年7月16日 上午12:0
+ 0\n退房時間：2018年7月22日 上午12:00\n
+LAST-MODIFIED:20241015T123538Z
+LOCATION:星野リゾート 磐梯山温泉ホテル\, 磐梯町
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住星野リゾート 磐梯山温泉ホテル
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170707T234000Z
+DTEND:20170708T082000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9trttnf3f69t9qg9c8lmagpkns0pr0rh3u78ocpch15ovgqpssi180
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170620T154842Z
+DESCRIPTION:阿聯酋航空 flight 366\n杜拜國際機場 DXB 3:40am (local time) - 台灣桃園國際機場 TPE
+  4:20pm (local time)\n\nConfirmation number: CBE4XJ
+LAST-MODIFIED:20241015T123538Z
+LOCATION:杜拜國際機場 DXB
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 台灣桃園國際機場 (EK 366)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210219T100000Z
+DTEND:20210219T110000Z
+DTSTAMP:20260331T043519Z
+UID:ckqjechl6ko6ab9jc4qm2b9kcos3ibb175gj6bb5cdj3eo9mcgqj2dr56g@google.com
+CREATED:20210210T111518Z
+LAST-MODIFIED:20210210T111518Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:品文旅
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211030
+DTEND;VALUE=DATE:20211101
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t3t4ojl1dkh7m9sgte49gojhjrm7r9tu4vh779e5ke50hkeahmffg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20211023T144804Z
+DESCRIPTION:原鄉溫泉民宿\n978台灣花蓮縣瑞穗鄉五福路325號\n+886 3 887 6308\n\nCheck-in: 2021年1
+ 0月30日 上午12:00\nCheck-out: 2021年10月31日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:978台灣花蓮縣瑞穗鄉五福路325號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 原鄉溫泉民宿
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210327
+DTEND;VALUE=DATE:20210329
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t0bfu90cbihj90a40vu27efcd49ug3qv4m7ledkpuej4srtv97n10
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210131T082639Z
+DESCRIPTION:蘭桂坊花園酒店\n60045台灣嘉義市西區延平街250號\n+886 5 228 8228\n\n入住時間：2021年3月27
+ 日 上午12:00\n退房時間：2021年3月28日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:60045台灣嘉義市西區延平街250號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住蘭桂坊花園酒店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20190919T110000
+DTEND;TZID=Asia/Taipei:20190919T120000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6ocf734e0j85hrblsagbfm4stu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=de
+ brachen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ pichien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ amchen1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ rso1211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=do
+ ng721@gmail.com;X-NUM-GUESTS=0:mailto:dong721@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ arliesun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ dchentw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=du
+ ncanliao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hi
+ rosei1979@gmail.com;X-NUM-GUESTS=0:mailto:hirosei1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ac
+ k.fu@ecareme.com;X-NUM-GUESTS=0:mailto:ack.fu@ecareme.com
+RECURRENCE-ID;TZID=Asia/Taipei:20190919T100000
+CREATED:20190724T084758Z
+LAST-MODIFIED:20230131T203117Z
+LOCATION:新竹國網中心
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:國網專案進度會議
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140511T030000Z
+DTEND:20140511T040000Z
+DTSTAMP:20260331T043519Z
+UID:i5604ufhncqh8oikjbkb9b2t44@google.com
+CREATED:20140508T155530Z
+LAST-MODIFIED:20140508T155530Z
+LOCATION:新店市碧潭
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch with mom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140525T030000Z
+DTEND:20140525T050000Z
+DTSTAMP:20260331T043519Z
+UID:nagjm1u4musn4b2e9ch729em40@google.com
+CREATED:20140524T140354Z
+LAST-MODIFIED:20140524T140654Z
+LOCATION:南崁costco
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Shopping
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20191209T140000
+DTEND;TZID=Asia/Taipei:20191209T180000
+RRULE:FREQ=WEEKLY;UNTIL=20191229T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20191209T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250125T225000Z
+DTEND:20250126T013000Z
+DTSTAMP:20260331T043519Z
+UID:a3g5kdv7eo4d4j1buh9iteos5g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20240903T081747Z
+DESCRIPTION:Singapore Airlines flight 934\nSingapore SIN 上午6:50 (local time
+ ) - Denpasar DPS 上午9:30 (local time)\n\nConfirmation number: 5H7HLM
+LAST-MODIFIED:20250306T211414Z
+LOCATION:Singapore SIN
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Denpasar (SQ 934)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20191230T140000
+DTEND;TZID=Asia/Taipei:20191230T180000
+RRULE:FREQ=WEEKLY;UNTIL=20200105T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20191230T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231014T041000Z
+DTEND:20231014T050000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tccs8tc9j2p4m29vvmo16fv7r3gh1ptvku17pi26o36psfuuvpfn0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230807T051316Z
+DESCRIPTION:Uni Airways flight 8609\n台北 TSA 下午12:10 (local time) - 澎湖 MZG 下
+ 午1:00 (local time)\n\nConfirmation number: 536H2V
+LAST-MODIFIED:20241015T123535Z
+LOCATION:台北 TSA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to 澎湖 (B7 8609)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241125
+DTSTAMP:20260331T043519Z
+UID:ge6pvsa7lr58s3vp8g3ics3ff0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20241115T055326Z
+DESCRIPTION:寶島53行館\n中山路27號\, 中區\, 臺中市\, 400\, 台灣\n+886 4 2220 6699\n\nCheck
+ -in: 2024年11月23日 上午12:00\nCheck-out: 2024年11月24日 上午12:00\nConfirmation numb
+ er: BB24111517236562
+LAST-MODIFIED:20241115T055326Z
+LOCATION:中山路27號\, 中區\, 臺中市\, 400\, 台灣
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 寶島53行館
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100324T060000Z
+DTEND:20100324T070000Z
+DTSTAMP:20260331T043519Z
+UID:ijhh49jcq5ak2862fctrgm3aqk@google.com
+CREATED:20100324T050647Z
+LAST-MODIFIED:20230131T203041Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SI training
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200625
+DTEND;VALUE=DATE:20200628
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t68el80jch91nph2k0srfbckulcrg6v3agt2q1v4ud9pse9kvp7k0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200504T082445Z
+DESCRIPTION:Four Points by Sheraton Penghu\nPenghu County Magong Taiwan\n+8
+ 86 6 926 6288\n\n入住時間：2020年6月25日 下午3:00\n退房時間：2020年6月27日 上午11:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:880台灣澎湖縣馬公市新店路No.197號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Four Points by Sheraton Penghu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250125T142000Z
+DTEND:20250125T190500Z
+DTSTAMP:20260331T043519Z
+UID:qsjifjn56j1jubqb027oujrc0g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20240903T081747Z
+DESCRIPTION:Scoot flight 893\nTaipei City TPE 下午10:20 (local time) - Singap
+ ore SIN 上午3:05 (local time)\n\nConfirmation number: 5H7HLM
+LAST-MODIFIED:20250306T211415Z
+LOCATION:Taipei City TPE
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Flight to Singapore (TR 893)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210410
+DTEND;VALUE=DATE:20210413
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t6vokkpjqf13cou38d1pss2cohol4drmdqhggjagftb0rdaluvplg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20210209T025202Z
+DESCRIPTION:台東娜路彎大酒店-台東家庭親子住宿酒店 情侶飯店 包棟團體住宿推薦\n950台灣台東縣台東市連航路66號\n+886 8 92
+ 3 9666\n\nCheck-in: 2021年4月10日 上午12:00\nCheck-out: 2021年4月12日 上午12:00\n
+LAST-MODIFIED:20241015T123533Z
+LOCATION:950台灣台東縣台東市連航路66號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 台東娜路彎大酒店-台東家庭親子住宿酒店 情侶飯店 包棟團體住宿推薦
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100616T060000Z
+DTEND:20100616T070000Z
+DTSTAMP:20260331T043519Z
+UID:32e2in2ejbn685asnoe31u0pn0@google.com
+CREATED:20100622T022934Z
+LAST-MODIFIED:20230131T203014Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:mark speech
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200905T023000Z
+DTEND:20200905T032500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9th2mq12sc6rthe0q04toas6jud67qjgm6408k42qna0e0u7lreff0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200818T011634Z
+DESCRIPTION:立榮航空航班 9095\n松山 TSA 上午10:30 (當地時間) - 南竿 LZN 上午11:25 (當地時間)\n\n確
+ 認號碼：WLVZ4Z
+LAST-MODIFIED:20241015T123534Z
+LOCATION:松山 TSA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往南竿 (B7 9095)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100408T110000Z
+DTEND:20100408T120000Z
+DTSTAMP:20260331T043519Z
+UID:cj2ti2vqcoienjobphndid8gj8@google.com
+CREATED:20100323T081411Z
+LAST-MODIFIED:20230131T203024Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:dinner with Mayle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T171000Z
+DTEND:20260916T192500Z
+DTSTAMP:20260331T043519Z
+UID:siircsrmteca6103u745vn6h0k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20260105T080938Z
+DESCRIPTION:Westjet flight 685\nCalgary YYC 上午11:10 (local time) - Yellowkn
+ ife YZF 下午1:25 (local time)\n\nConfirmation number: GSYFAE
+LAST-MODIFIED:20260210T042342Z
+LOCATION:Calgary YYC
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Flight to Yellowknife (WS 685)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tbr04n689agjan42cf09bpdde10j0vptk22h21ov2k2v6f8stvi5g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180821T024352Z
+DESCRIPTION:Lagent Stay Sapporo Odori Hokkaido LAGENT札幌大通\n札幌市\n\n入住時間：2019
+ 年1月30日 上午12:00\n退房時間：2019年1月31日 上午12:00\n
+LAST-MODIFIED:20241015T123539Z
+LOCATION:Lagent Stay Sapporo Odori Hokkaido LAGENT札幌大通\, 札幌市
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Lagent Stay Sapporo Odori Hokkaido LAGENT札幌大通
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230329T015000Z
+DTEND:20230329T052000Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t2ukeh2nml0f6ualid2surjl19v54csrukqjmc0ogl769m1etjuv0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20230327T022437Z
+DESCRIPTION:AirAsia flight 1511\nTaipei City TPE 上午9:50 (local time) - Kota
+  Kinabalu BKI 下午1:20 (local time)\n\nConfirmation number: M4JV5J
+LAST-MODIFIED:20241015T123537Z
+LOCATION:Taipei City TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Kota Kinabalu (AK 1511)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20200106T140000
+DTEND;TZID=Asia/Taipei:20200106T180000
+RRULE:FREQ=WEEKLY;UNTIL=20200209T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200106T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20231113T140000
+DTEND;TZID=Asia/Taipei:20231113T180000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20240331T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:8ahv43hta83i362ske8fec9vpg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ etoln@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ arliesun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ pichien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=de
+ brachen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ amchen1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ad
+ dchentw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=by
+ chen81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=du
+ ncanliao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ri
+ chard.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Pe
+ ter Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hi
+ rose1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ba
+ rry2669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ow
+ en Huang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240411T092331Z
+LOCATION:台北敦南會議室
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20201102T140000
+DTEND;TZID=Asia/Taipei:20201102T180000
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200413T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=stonev
+ irus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=meggie
+ 9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=thomas
+ kuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=daphne
+ 821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Owen H
+ uang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=anchin
+ 0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=potter
+ .chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+RECURRENCE-ID;TZID=Asia/Taipei:20201102T140000
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140126T100000Z
+DTEND:20140126T110000Z
+DTSTAMP:20260331T043519Z
+UID:r8t9ub3logjbs7tclqi6trvs8c@google.com
+CREATED:20140129T094653Z
+LAST-MODIFIED:20140129T094653Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gć     
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211220
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tejqnf1t5fmtq5edm68u76lb98tem46sqcpu0at2eomkand2did70
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20211127T034822Z
+DESCRIPTION:陽光大飯店\n802台灣高雄市苓雅區中華四路75號\n+886 7 332 7988\n\nCheck-in: 2021年12
+ 月18日 上午12:00\nCheck-out: 2021年12月19日 上午12:00\n
+LAST-MODIFIED:20241015T123535Z
+LOCATION:802台灣高雄市苓雅區中華四路75號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 陽光大飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200321
+DTEND;VALUE=DATE:20200323
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9ttg0gv170u94j60m8tn4r6p2og679daodi0rdimidc1dhpb2s79sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200318T015131Z
+DESCRIPTION:美侖大飯店\n970台灣花蓮縣花蓮市林園1之1號\n+886 3 822 2111\n\n入住時間：2020年3月21日 上午
+ 12:00\n退房時間：2020年3月22日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:970台灣花蓮縣花蓮市林園1之1號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住美侖大飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220607
+DTEND;VALUE=DATE:20220609
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tsca6d5likt5gcov2cb7nghj457kdguuck7cmekbf9k5lbhsou4eg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20220529T084109Z
+DESCRIPTION:長榮桂冠酒店(台中)\n407台灣台中市西屯區台灣大道二段666號\n+886 4 2313 9988\n\nCheck-in
+ : 2022年6月7日 上午12:00\nCheck-out: 2022年6月8日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:407台灣台中市西屯區台灣大道二段666號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 長榮桂冠酒店(台中)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260331T043519Z
+UID:3dok0hfnf3l2r7e1vjkvece7o2@google.com
+CREATED:20260327T052423Z
+LAST-MODIFIED:20260327T052423Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日本櫻花之旅
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170912T110000Z
+DTEND:20170912T130000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:5v1s6deocl59pj36b955egqr2s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Jo
+ an Wu;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20170907T055332Z
+LAST-MODIFIED:20230131T203051Z
+LOCATION:蘭姥姥小吃\, 10491台灣台北市中山區伊通街66巷3號
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200624
+DTEND;VALUE=DATE:20200626
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t48gtb7asuclv91dtofo30ni57g7p5a984s9jijfgif1nf030nu10
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200515T015723Z
+DESCRIPTION:雅霖大飯店\n880台灣澎湖縣馬公市同和路100號\n+886 6 926 1366\n\n入住時間：2020年6月24日 上
+ 午12:00\n退房時間：2020年6月25日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:880台灣澎湖縣馬公市同和路100號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住雅霖大飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220405
+DTEND;VALUE=DATE:20220407
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t8eqck0l850lio60vpefk0ubcaf01jnfhibo1vdt9fqa6fju1ko00
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20220323T021152Z
+DESCRIPTION:捷絲旅高雄站前館\n80049台灣高雄市新興區中山一路280號\n+886 7 973 3588\n\nCheck-in: 2
+ 022年4月5日 上午12:00\nCheck-out: 2022年4月6日 上午12:00\n
+LAST-MODIFIED:20241015T123533Z
+LOCATION:80049台灣高雄市新興區中山一路280號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 捷絲旅高雄站前館
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T100000Z
+DTEND:20260409T110000Z
+DTSTAMP:20260331T043519Z
+UID:2g5vmq9217p5p6jn6f755bpm9i@google.com
+CREATED:20260327T052306Z
+LAST-MODIFIED:20260327T052306Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:遠銀登錄行動支付
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t2vc9duerq6rbo25sob62akfg53hdm8h0oqqtvf9aiusmq02fpefg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20190106T114046Z
+DESCRIPTION:華閣溫泉飯店\n262台灣宜蘭縣礁溪鄉公園路25號\n+886 3 988 2399\n\n入住時間：2019年1月14日 上
+ 午12:00\n退房時間：2019年1月15日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:262台灣宜蘭縣礁溪鄉公園路25號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住華閣溫泉飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170627T080000Z
+DTEND:20170627T125300Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:-2053064411@regiojet.cz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ ff Kuo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20170516T152227Z
+DESCRIPTION:Arrival/Departure|Station/Transfer|Platf.|Connection|Coach/Seat
+ s\nDep:10:00|Prague\, Wilsonova bus st. next to train st.|1- 2|Prague → Mün
+ chen (DB)|95\nArr:14:53|München\, ZOB (Hackerbrücke)\n
+LAST-MODIFIED:20230131T203039Z
+LOCATION:50.0834770202637\, 14.4352836608887
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:#5323651788: From Prague\, Wilsonova bus st. next to train st.\, 1-
+  2\, to München\, ZOB (Hackerbrücke)\, seat: 95
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131229T040000Z
+DTEND:20131229T050000Z
+DTSTAMP:20260331T043519Z
+UID:0dhi1ht7suj7rggvf1ukre5718@google.com
+CREATED:20131229T022327Z
+LAST-MODIFIED:20131229T022327Z
+LOCATION:佈佬廚房
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:午餐
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tkea6if021btn7svn2i01ai33su3ugk3f6v7r4vs4dgp8giqdkhlg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20191104T095207Z
+DESCRIPTION:Hearton飯店 西梅田\n大阪市\n+81 6-6342-1111\n\n入住時間：2019年12月10日 上午12:00
+ \n退房時間：2019年12月12日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:Hearton飯店 西梅田\, 大阪市
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Hearton飯店 西梅田
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170704
+DTEND;VALUE=DATE:20170706
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tegof6lqlfv4kld84rj73un02924ks89q1t83bom23v9l3orahe50
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170509T154516Z
+DESCRIPTION:Pension Am Schlossberg\nKirchgasse 4\, 97234 Reichenberg\, Deut
+ schland\n+49 931 60861\n\n入住時間：2017年7月4日 上午12:00\n退房時間：2017年7月5日 上午12:00\n
+LAST-MODIFIED:20241015T123535Z
+LOCATION:Kirchgasse 4\, 97234 Reichenberg\, Deutschland
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Pension Am Schlossberg
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220425
+DTEND;VALUE=DATE:20220427
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tbs8np2lppjq23iuo8r18hhdeu94on77bg5v9mupiaf59ocjeofpg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20211221T031445Z
+DESCRIPTION:雅霖大飯店\n880台灣澎湖縣馬公市同和路100號\n+886 6 926 1366\n\nCheck-in: 2022年4月
+ 25日 上午12:00\nCheck-out: 2022年4月26日 上午12:00\n
+LAST-MODIFIED:20241015T123539Z
+LOCATION:880台灣澎湖縣馬公市同和路100號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 雅霖大飯店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T065000Z
+DTEND:20241011T105000Z
+DTSTAMP:20260331T043519Z
+UID:j8kd6fsc695r5o2ig1fie7msjs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20240607T045242Z
+DESCRIPTION:STARLUX flight 742\n曼谷 BKK 下午1:50 (local time) - 台北市 TPE 下午6:50
+  (local time)\n\nConfirmation number: 6GXEJO
+LAST-MODIFIED:20241111T211411Z
+LOCATION:曼谷 BKK
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Flight to 台北市 (JX 742)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190412T110000Z
+DTEND:20190412T130000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:51an7io19u5a1mchq7v0cos44v@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ anwu0623@gmail.com;X-NUM-GUESTS=0:mailto:joanwu0623@gmail.com
+CREATED:20190408T054609Z
+LAST-MODIFIED:20230131T203122Z
+LOCATION:勺勺客陝西餐館\, 100台灣台北市中正區杭州南路一段27號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Taipei:20200316T140000
+DTEND;TZID=Asia/Taipei:20200316T180000
+RRULE:FREQ=WEEKLY;UNTIL=20200329T155959Z;BYDAY=MO
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=ongtvsehb6uo4vdktm9knspc7o@group.calendar.google.com:mailto:on
+ gtvsehb6uo4vdktm9knspc7o@group.calendar.google.com
+UID:6b1ts1vb3a0ff9h2p6lgar0otk_R20200316T060000@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=henjrc
+ hen@gmail.com;X-NUM-GUESTS=0:mailto:henjrchen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hirose
+ 1979@gmail.com;X-NUM-GUESTS=0:mailto:hirose1979@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=a3
+ 12b7d@gmail.com;X-NUM-GUESTS=0:mailto:a312b7d@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=richar
+ d.chung@ecareme.com;X-NUM-GUESTS=0:mailto:richard.chung@asuscloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=st
+ onevirus0@gmail.com;X-NUM-GUESTS=0:mailto:stonevirus0@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=chetol
+ n@gmail.com;X-NUM-GUESTS=0:mailto:chetoln@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ berthuangww@gmail.com;X-NUM-GUESTS=0:mailto:alberthuangww@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=barry2
+ 669@gmail.com;X-NUM-GUESTS=0:mailto:barry2669@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=carso1
+ 211@gmail.com;X-NUM-GUESTS=0:mailto:carso1211@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=duncan
+ liao@gmail.com;X-NUM-GUESTS=0:mailto:duncanliao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=adamch
+ en1101@gmail.com;X-NUM-GUESTS=0:mailto:adamchen1101@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ar
+ thur00lin@gmail.com;X-NUM-GUESTS=0:mailto:arthur00lin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Be
+ yond_Chao@asus.com;X-NUM-GUESTS=0:mailto:beyond_chao@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=hupich
+ ien@gmail.com;X-NUM-GUESTS=0:mailto:hupichien@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=me
+ ggie9562@gmail.com;X-NUM-GUESTS=0:mailto:meggie9562@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=th
+ omaskuo.tw@gmail.com;X-NUM-GUESTS=0:mailto:thomaskuo.tw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ phne821218@gmail.com;X-NUM-GUESTS=0:mailto:daphne821218@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bo
+ nnie0125lee@gmail.com;X-NUM-GUESTS=0:mailto:bonnie0125lee@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck.fu@ecareme.com;X-NUM-GUESTS=0:mailto:jack.fu@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ kia_du@asus.com;X-NUM-GUESTS=0:mailto:nokia_du@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dq
+ bruce@gmail.com;X-NUM-GUESTS=0:mailto:dqbruce@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=debrac
+ hen88@gmail.com;X-NUM-GUESTS=0:mailto:debrachen88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=addche
+ ntw@gmail.com;X-NUM-GUESTS=0:mailto:addchentw@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Owen H
+ uang;X-NUM-GUESTS=0:mailto:owen.huang@ecareme.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ chin0616@gmail.com;X-NUM-GUESTS=0:mailto:anchin0616@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ch
+ anglab@gmail.com;X-NUM-GUESTS=0:mailto:changlab@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ tter.chiu@gmail.com;X-NUM-GUESTS=0:mailto:potter.chiu@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bychen
+ 81@gmail.com;X-NUM-GUESTS=0:mailto:bychen81@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=charli
+ esun1677@gmail.com;X-NUM-GUESTS=0:mailto:charliesun1677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Peter 
+ Wu;X-NUM-GUESTS=0:mailto:peter.wu@asuscloud.com
+CREATED:20190726T073740Z
+LAST-MODIFIED:20240408T022208Z
+LOCATION:台北敦南會議室
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:專案週會
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241008
+DTEND;VALUE=DATE:20241012
+DTSTAMP:20260331T043519Z
+UID:4ifthus6bup3m3mttb9ck91ipg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20240812T081610Z
+DESCRIPTION:Sukhumvit Suites Hotel\nกรุงเทพมหานคร\n+66 2 661 7262\n\nCheck-
+ in: 2024年10月8日 下午2:00\nCheck-out: 2024年10月11日 下午12:00\nConfirmation number:
+  1331190104
+LAST-MODIFIED:20240812T081610Z
+LOCATION:Sukhumvit Suites Hotel\, กรุงเทพมหานคร
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at Sukhumvit Suites Hotel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170127T000000Z
+DTEND:20170128T000000Z
+DTSTAMP:20260331T043519Z
+UID:k0m08h739nmh39llm1climn41k@google.com
+CREATED:20161208T071707Z
+DESCRIPTION:Agoda訂單編號：114601271\n\n住宿名稱：City Suites - Jiaoxi Maple Leaves H
+ ot Spring Hotel\n下榻住宿地址：No.118\, Sec. 5\, Jiaoxi Rd.\,\, Yilan\, Taiwan\n入住
+ 房型：Deluxe Family\n房客人數：8位大人和0位孩童
+LAST-MODIFIED:20161208T071707Z
+LOCATION:No.118\, Sec. 5\, Jiaoxi Rd.\,\, Yilan\, Taiwan
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Agoda Booking Id: 114601271
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161003T110000Z
+DTEND:20161003T133000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=dennis.yc.yang@gmail.com:mailto:dennis.yc.yang@gmail.com
+UID:86tie72nscqivj89enecp195vs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=dennis
+ .yc.yang@gmail.com;X-NUM-GUESTS=0:mailto:dennis.yc.yang@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ck1.chu@rosedata.com;X-NUM-GUESTS=0:mailto:jack1.chu@rosedata.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ffkuo375@gmail.com;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20160929T072956Z
+LAST-MODIFIED:20230131T203054Z
+LOCATION:Capricciosa卡布里喬莎(台北天母SOGO店)\, 111台灣台北市士林區台北市士林區中山北路六段77號8樓
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:聚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140130T080000Z
+DTEND:20140130T120000Z
+DTSTAMP:20260331T043519Z
+UID:034goc41cm1h9paqnqhj3jujm0@google.com
+CREATED:20140130T050945Z
+LAST-MODIFIED:20140130T050946Z
+LOCATION:新店
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:除夕圍爐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200215
+DTEND;VALUE=DATE:20200217
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t33lmtrj2eu3fjov3pal80vss125umei55ngln66hi2135kpv0290
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200212T121954Z
+DESCRIPTION:礁溪寒沐酒店 MU JIAO XI HOTEL\n262台灣宜蘭縣礁溪鄉健康路1號\n+886 3 905 8077\n\n入
+ 住時間：2020年2月15日 上午12:00\n退房時間：2020年2月16日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:262台灣宜蘭縣礁溪鄉健康路1號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住礁溪寒沐酒店 MU JIAO XI HOTEL
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140611T030000Z
+DTEND:20140611T033000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=jaff_kuo@asus.com:mailto:jaff_kuo@asus.com
+UID:040000008200E00074C5B7101A82E00800000000A09C47165585CF01000000000000000
+ 0100000008FB04F52E810FC4EB2F5B3FCBEC55ECC
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ an2_wu@asus.com;X-NUM-GUESTS=0:mailto:joan2_wu@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ja
+ ff_kuo@asus.com;X-NUM-GUESTS=0:mailto:jaff_kuo@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=da
+ rren_shih@asus.com;X-NUM-GUESTS=0:mailto:darren_shih@asus.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ ff Kuo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CREATED:20140611T011202Z
+DESCRIPTION:Calendar test.\nReply all from calendar\, will it reply all?\n\
+ n
+LAST-MODIFIED:20230131T203028Z
+LOCATION:tbd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:test
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:1561028574
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200712
+DTEND;VALUE=DATE:20200714
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tej86g5ea705oc9hm3at9s5drh4l2juscn0qthkec0gjgpm4e3gf0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200531T061454Z
+DESCRIPTION:蘭桂坊花園酒店\n60045台灣嘉義市西區延平街250號\n+886 5 228 8228\n\n入住時間：2020年7月12
+ 日 上午12:00\n退房時間：2020年7月13日 上午12:00\n
+LAST-MODIFIED:20241015T123535Z
+LOCATION:60045台灣嘉義市西區延平街250號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住蘭桂坊花園酒店
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260331T043519Z
+UID:1io35os63clqsh7vkcas90vn4j@google.com
+CREATED:20260327T052643Z
+LAST-MODIFIED:20260327T052643Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:加拿大極光之旅
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211219
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tbhuvnvsv4vb8mbtel1n986ohc54m47cq9peslap62coa9f32jj30
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20211126T012609Z
+DESCRIPTION:捷絲旅高雄站前館\n80049台灣高雄市新興區中山一路280號\n+886 7 973 3588\n\nCheck-in: 2
+ 021年12月17日 上午12:00\nCheck-out: 2021年12月18日 上午12:00\n
+LAST-MODIFIED:20241015T123539Z
+LOCATION:80049台灣高雄市新興區中山一路280號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 捷絲旅高雄站前館
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9tkumv0qngjppmfja178tos0jppk35d0pg13428ptqm71kniabnd8g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180903T030244Z
+DESCRIPTION:ホテルルートイン 札幌駅前北口\n札幌市\n+81 11-727-2111\n\n入住時間：2019年2月4日 上午12:00
+ \n退房時間：2019年2月6日 上午12:00\n
+LAST-MODIFIED:20241015T123534Z
+LOCATION:ホテルルートイン 札幌駅前北口\, 札幌市
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住ホテルルートイン 札幌駅前北口
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220214
+DTEND;VALUE=DATE:20220216
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9ta12up1vah7a2ep77mq8e5fto1sdlp0sbovlet8uj5pss5bfn6rl0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20220211T084111Z
+DESCRIPTION:捷絲旅宜蘭礁溪館 - Just Sleep Yilan Jiaoxi\n262台灣宜蘭縣礁溪鄉德陽路24巷8號\n+886 3
+  910 2000\n\nCheck-in: 2022年2月14日 上午12:00\nCheck-out: 2022年2月15日 上午12:00\n
+LAST-MODIFIED:20241015T123539Z
+LOCATION:262台灣宜蘭縣礁溪鄉德陽路24巷8號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at 捷絲旅宜蘭礁溪館 - Just Sleep Yilan Jiaoxi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180331
+DTEND;VALUE=DATE:20180405
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t2a71f8a4g02q4g8q338hrunloca9lq0m4h13abrttngsd2vspd4g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180301T110758Z
+DESCRIPTION:SOLARIA Hotel\n20 Seomyeon-ro\, 부전동\, 釜山鎮區 부산광역시\, 韓國\n+82 51-8
+ 01-9900\n\n入住時間：2018年3月31日 上午12:00\n退房時間：2018年4月4日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:20 Seomyeon-ro\, 부전동\, 釜山鎮區 부산광역시\, 韓國
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住SOLARIA Hotel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20131229T010000Z
+DTEND:20131229T020000Z
+DTSTAMP:20260331T043519Z
+UID:holpuu9jc1mf027keiooa2ks9c@google.com
+CREATED:20131228T134201Z
+LAST-MODIFIED:20131228T134201Z
+LOCATION:台灣新北市新店區車子路布佬廚房
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140224T103000Z
+DTEND:20140224T123000Z
+DTSTAMP:20260331T043519Z
+UID:tpp85cqo73chasmi2s1enjlv40@google.com
+CREATED:20140215T023905Z
+LAST-MODIFIED:20140215T023905Z
+LOCATION:晶華酒店
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:晚餐
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20100319T010000Z
+DTEND:20100319T020000Z
+DTSTAMP:20260331T043519Z
+UID:gjq4chjn8qpe3bg9iiob0g7hqc@google.com
+CREATED:20100318T102912Z
+LAST-MODIFIED:20230131T203052Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:goto Sunmoon lake
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180806
+DTEND;VALUE=DATE:20180809
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t0cs5dqiirkfilv6hp7eiengtjpue3a1v12kk1nhc1bbi97v8fcq0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20180716T045657Z
+DESCRIPTION:福容大飯店 花蓮\n970台灣花蓮縣花蓮市民生路51號\n+886 3 823 9988\n\n入住時間：2018年8月6日 
+ 上午12:00\n退房時間：2018年8月8日 上午12:00\n
+LAST-MODIFIED:20241015T123537Z
+LOCATION:970台灣花蓮縣花蓮市民生路51號
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住福容大飯店 花蓮
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170622T153500Z
+DTEND:20170623T001500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t2886fh5b03eikjk79g0mtme6a8egi9bkcv4embnv8a29rdnkvp80
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170620T154842Z
+DESCRIPTION:Emirates航班 367\nTaipei TPE 下午11:35 (當地時間) - Dubai DXB 上午4:15 (當
+ 地時間)\n\n確認號碼：CBE4XJ
+LAST-MODIFIED:20241015T123537Z
+LOCATION:Taipei TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往Dubai (EK 367)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170629
+DTEND;VALUE=DATE:20170701
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9t66c538601sf88su5o93tc6p34tmee3iqn5jfv8s7cp0c9hte0fig
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20170517T091842Z
+DESCRIPTION:Gasthof Simony\nHallstatt\n+43 6134 8231\n\n入住時間：2017年6月29日 上午1
+ 2:00\n退房時間：2017年6月30日 上午12:00\n
+LAST-MODIFIED:20241015T123532Z
+LOCATION:Wolfengasse 105\, 4830 Hallstatt\, Austria
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:入住Gasthof Simony
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200402T100000Z
+DTEND:20200402T113000Z
+DTSTAMP:20260331T043519Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:2001160128191378725067-2003240154261438010489-2003200739438097458680@ac
+ cuvally.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20200402T100000Z
+DESCRIPTION:活動網址：https://www.accupass.com/event/2001160128191378725067
+LAST-MODIFIED:20230131T203025Z
+LOCATION:台灣花蓮縣光復鄉農場路31號 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:2020大農大富賞螢趣 - 2020/04/02 - 一般票 - 第一梯次 18:30-19:30
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241006
+DTEND;VALUE=DATE:20241009
+DTSTAMP:20260331T043519Z
+UID:mooqc2t844jocl6sigl13c2lc0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20240813T061842Z
+DESCRIPTION:Hilton Hua Hin Resort & Spa\nHua Hin\n+66 32 538 9990\n\nCheck-
+ in: 2024年10月6日 下午3:00\nCheck-out: 2024年10月8日 下午7:00\nConfirmation number: 3
+ 110195634
+LAST-MODIFIED:20240929T080717Z
+LOCATION:Hilton Hua Hin Resort & Spa\, Hua Hin
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stay at Hilton Hua Hin Resort & Spa
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190627T175500Z
+DTEND:20190627T200500Z
+DTSTAMP:20260331T043519Z
+UID:7kukuqrfedlm2f9ti1lhia35diir1ecjpoe7kl1v753aa7u4jjhmcdmfudd5jravgo5g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jaff K
+ uo;X-NUM-GUESTS=0:mailto:jaffkuo375@gmail.com
+CLASS:PRIVATE
+CREATED:20190412T014202Z
+DESCRIPTION:Philippines AirAsia航班 129\n臺北市 TPE 上午1:55 (當地時間) - 馬尼拉 MNL 上午4:
+ 05 (當地時間)\n\n確認號碼：UQCJXF
+LAST-MODIFIED:20241015T123534Z
+LOCATION:臺北市 TPE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:飛往馬尼拉 (Z2 129)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

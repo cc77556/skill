@@ -1,0 +1,10 @@
+{
+  "allergies": ["shellfish", "peanuts"],
+  "cuisine_preferences": ["Asian", "Mediterranean", "Mexican"],
+  "calorie_target": 2000,
+  "dietary_style": "balanced",
+  "servings": 2,
+  "budget": "moderate",
+  "cooking_skill": "intermediate",
+  "meal_prep_ok": true
+}

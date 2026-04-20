@@ -1,0 +1,17 @@
+[
+  {"id": "m001", "from": "ceo@company.com", "subject": "Board Meeting Prep", "body": "Need the deck ready by tomorrow morning. This is top priority.", "date": "2026-03-25T07:00:00", "read": false},
+  {"id": "m002", "from": "spam@winner-lottery.com", "subject": "You Won $1,000,000!", "body": "Click here to claim your prize...", "date": "2026-03-25T06:30:00", "read": false},
+  {"id": "m003", "from": "devops@company.com", "subject": "Server Alert: High CPU", "body": "Production server CPU at 95% for 30 minutes. Please investigate.", "date": "2026-03-25T08:00:00", "read": false},
+  {"id": "m004", "from": "newsletter@medium.com", "subject": "Your Weekly Digest", "body": "Top articles on AI and machine learning this week.", "date": "2026-03-25T05:00:00", "read": true},
+  {"id": "m005", "from": "pm@company.com", "subject": "Sprint Planning Tomorrow", "body": "Reminder: Sprint planning at 9am. Please have your estimates ready.", "date": "2026-03-24T17:00:00", "read": true},
+  {"id": "m006", "from": "deals@cheapstuff.biz", "subject": "BIGGEST SALE EVER 80% OFF!!!", "body": "Limited time offer on electronics...", "date": "2026-03-25T04:00:00", "read": false},
+  {"id": "m007", "from": "client@enterprise.com", "subject": "API Integration Issue", "body": "We're getting 500 errors on the /users endpoint. Can someone look into this ASAP?", "date": "2026-03-25T09:00:00", "read": false},
+  {"id": "m008", "from": "hr@company.com", "subject": "Company Outing Survey", "body": "Please fill out the survey for our next team outing by Friday.", "date": "2026-03-24T10:00:00", "read": true},
+  {"id": "m009", "from": "boss@company.com", "subject": "Re: Budget Approval", "body": "Approved. Please proceed with the vendor contract.", "date": "2026-03-25T08:30:00", "read": false},
+  {"id": "m010", "from": "security@company.com", "subject": "Password Reset Required", "body": "Your password expires in 3 days. Please update it.", "date": "2026-03-24T15:00:00", "read": true},
+  {"id": "m011", "from": "promo@randomstore.net", "subject": "Free Gift Card Inside!", "body": "Open now to receive your complimentary gift card!", "date": "2026-03-25T03:00:00", "read": false},
+  {"id": "m012", "from": "design@company.com", "subject": "New Logo Options", "body": "Attached 3 logo options for the rebrand. Let me know your preference.", "date": "2026-03-24T14:00:00", "read": true},
+  {"id": "m013", "from": "cto@company.com", "subject": "Architecture Review", "body": "Please review the proposed microservices architecture doc before Thursday.", "date": "2026-03-25T07:45:00", "read": false},
+  {"id": "m014", "from": "intern@company.com", "subject": "Question about codebase", "body": "Hi, where can I find the documentation for the auth module?", "date": "2026-03-24T16:30:00", "read": true},
+  {"id": "m015", "from": "vendor@cloudprovider.com", "subject": "Invoice #4521", "body": "Your monthly invoice is ready. Amount due: $2,340.", "date": "2026-03-25T06:00:00", "read": false}
+]
